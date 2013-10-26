@@ -7,4 +7,17 @@ h1 {
 
 body {
   background: #ffffff no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(#ffffff), to(#dddddd));
+  font-weight: 300;
 }
+
+.rules {
+  font-size: 1.5em;
+  font-weight: 300;
+
+  ol { list-style: none;
+    padding: 0px;
+    margin: 0px; }}
+
+.meetups {
+  font-size: 1.25em; }
+
