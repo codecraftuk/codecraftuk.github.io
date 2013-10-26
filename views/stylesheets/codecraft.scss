@@ -8,6 +8,7 @@ h1 {
 body {
   background: #ffffff no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(#ffffff), to(#dddddd));
   font-weight: 300;
+  height: 100%;
 }
 
 .rules {
@@ -21,3 +22,8 @@ body {
 .meetups {
   font-size: 1.25em; }
 
+.footer {
+  text-align: center;
+  height: 60px;
+  padding-top: 8em;
+}
