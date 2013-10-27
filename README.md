@@ -13,3 +13,7 @@ clone repo
 cd to workspace
 run: bundle install
 run: foreman start
+
+git remote add heroku git@heroku.com:shielded-lowlands-7246.git
+git push heroku master
+
