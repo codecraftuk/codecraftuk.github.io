@@ -1,0 +1,7 @@
+auto: true
+markdown: rdiscount
+permalink: /:year/:month/:title
+baseurl: /news
+rdiscount extensions: [smart]
+future: false
+pygments: false 
