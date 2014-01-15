@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /:year/:month/:title
+baseurl: /news
+rdiscount extensions: [smart]
+future: false
+pygments: false
+
+paginate: 5
+
+# Setup
+title:            CodeCraft
+url:              http://www.codecraftuk.org 

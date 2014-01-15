@@ -7,17 +7,27 @@ module CodeCraft
     end
 
     get "/events/?*" do
-        jekyll_blog(request.path) {404}
+        poole_blog(request.path) {404}
     end
 
-    def jekyll_blog(path, &missing_file_block)
-        @current_menu = "blog"
-        @title = "Blog - Derek Eder"
+    get "/tmp" do
+      file_path = File.join(File.dirname(__FILE__), 'poole/_site/front.html')
+      serve_data(file_path)
+    end
+
+
+    def poole_blog(path, &missing_file_block)
+        @current_menu = "poole"
+        @title = "CodeCraft"
       
-        file_path = File.join(File.dirname(__FILE__), 'blog/_site',  path.gsub('/events',''))
+        file_path = File.join(File.dirname(__FILE__), 'poole/_site',  path.gsub('/events',''))
         file_path = File.join(file_path, 'index.html') unless file_path =~ /\.[a-z]+$/i  
       
-        if File.exist?(file_path)
+        serve_data(file_path)
+    end
+
+    def serve_data(file_path)
+      if File.exist?(file_path)
           file = File.open(file_path, "rb")
           contents = file.read
           file.close
@@ -25,13 +35,13 @@ module CodeCraft
           if (file_path.include?('.xml') || file_path.include?('.css'))
             erb contents, :content_type => 'text/xml'
           else
-            erb contents #, :layout_engine => :haml
+            erb contents
           end
         else
           haml :not_found
         end
-    end
-
+    end    
+    
     get '/' do
       erb :index
     end
