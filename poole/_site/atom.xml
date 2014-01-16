@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>CodeCraft</title>
+ <link href="http://www.codecraftuk.org/atom.xml" rel="self"/>
+ <link href="http://www.codecraftuk.org/"/>
+ <updated>2014-01-16T20:57:36+00:00</updated>
+ <id>http://www.codecraftuk.org</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Seven Languages in Seven Weeks, Part 1</title>
+   <link href="http://www.codecraftuk.org/2014/01/seven-languages-part-1"/>
+   <updated>2014-01-12T00:00:00+00:00</updated>
+   <id>http://www.codecraftuk.org/2014/01/seven-languages-part-1</id>
+   <content type="html">&lt;p&gt;Looking for a new coding challenge for the New Year? Trying to pick up some new skills? Take the CodeCraft Seven Languages in Seven Weeks challenge.&lt;/p&gt;
+
+&lt;p&gt;For our first events, we are encouraging programmers in and around Glasgow to read the excellent book, &lt;a href=&quot;http://www.amazon.co.uk/dp/193435659X/&quot;&gt;Seven Languages in Seven Weeks&lt;/a&gt;, and follow-up by discussing what you learn with your peers.&lt;/p&gt;
+
+&lt;p&gt;Our first event, on the &lt;strong&gt;4th February at 7pm&lt;/strong&gt;, will be dedicated to the first 3 languages in the book (Ruby, Prolog and IO), with the rest covered at the next event in March.&lt;/p&gt;
+
+&lt;p&gt;While we hope you should have plenty of time to pick-up a copy of the book and study all three languages for February, we'd like to hear from you regardless of how much you manage to get through or your level of experience.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Details: Seven Languages in Seven Weeks: The First Three&lt;/li&gt;
+&lt;li&gt;Date - Tuesday 4th February 2014&lt;/li&gt;
+&lt;li&gt;Time - 7pm&lt;/li&gt;
+&lt;li&gt;Location - TBC (Somewhere easy to get to in Glasgow).&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
