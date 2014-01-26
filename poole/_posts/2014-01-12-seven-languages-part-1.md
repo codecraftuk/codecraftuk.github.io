@@ -14,4 +14,4 @@ While we hope you should have plenty of time to pick-up a copy of the book and s
 * Details: Seven Languages in Seven Weeks: The First Three
 * Date - Tuesday 4th February 2014
 * Time - 7pm
-* Location - TBC (Somewhere easy to get to in Glasgow).
+* Location - [The Hope, 6/8 Waterloo Street, Glasgow, G2 6DA](http://goo.gl/maps/N8vCM)
