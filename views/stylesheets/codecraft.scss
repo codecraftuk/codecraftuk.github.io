@@ -1,29 +1,27 @@
-.jumbotron {
-  text-align: center;
-  background-color: transparent; }
+body {
+  background: #ffffff no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(#ffffff), to(#dddddd));
+  font-weight: 300;
+  height: 100%; }
 
 h1 {
   padding-bottom: 0.3em;}
 
-body {
-  background: #ffffff no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(#ffffff), to(#dddddd));
-  font-weight: 300;
-  height: 100%;
-}
-
-.rules {
-  font-size: 1.5em;
-  font-weight: 300;
-
-  ol { list-style: none;
-    padding: 0px;
-    margin: 0px; }}
+.jumbotron {
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: transparent;}
 
 .meetups {
   font-size: 1.25em; }
 
+.event-image {
+  margin-top: 3%;
+}
+
 .footer {
   text-align: center;
   height: 60px;
-  padding-top: 8em;
+  padding-top: 3em;
 }
+
