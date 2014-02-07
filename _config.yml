@@ -1,0 +1,4 @@
+name: CodeCraft
+markdown: redcarpet
+pygments: true
+permalink: /events/:year/:month/:title
