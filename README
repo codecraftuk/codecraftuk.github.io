@@ -3,3 +3,5 @@ Run locally with
 ```
 jekyll serve --watch
 ```
+
+Served on github pages
