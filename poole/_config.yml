@@ -4,6 +4,7 @@ baseurl: /news
 rdiscount extensions: [smart]
 future: false
 pygments: false
+exclude: ["vendor"]
 
 paginate: 5
 
