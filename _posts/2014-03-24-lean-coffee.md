@@ -11,6 +11,6 @@ It doesn't matter if you don't have a topic, you may be able to provide valuable
 
 * Details: Lean Coffee for Craftmanship
 * Date - Thursday 15th May 2014
-* Time - 7pm
+* Time - Arrive 6.30pm for 7pm event start.
 * Location: <a href="https://www.google.co.uk/maps/preview/place/the+hope/@55.8603492,-4.2594337,18z/data=!3m1!4b1!4m2!3m1!1s0x4888469dda4be0d3:0x48833155b9c343e2">The Hope</a> on Waterloo Street, Glasgow
 
