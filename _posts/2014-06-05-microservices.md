@@ -12,4 +12,4 @@ For our June event, we're going to be discussing and exploring Microservices, th
 * Details: Microservices
 * Date - Thursday 19th June 2014
 * Time - 7pm
-* Location - TBC (Glasgow City Centre)
+* Location: <a href="https://www.google.co.uk/maps/place/The+Arches+Cafe+Bar/@55.858375,-4.258346,17z/data=!3m1!4b1!4m2!3m1!1s0x4888469e9e44da7f:0xe5aded3da5af3d47">The Arches Cafe</a> on Argyle Street, Glasgow
