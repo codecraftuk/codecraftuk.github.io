@@ -9,8 +9,8 @@ For our August event, we're having a show & tell with the theme of deployment.  
 
 We'll be pairing and switching for the evening, so everyone should get a little bit of time to try out everything else, followed by a short discussion on what we've learnt. 
 
-* Details: Deployment Show & Tell
+* Details - Deployment Show & Tell
 * Date - Thursday 21st August 2014
 * Time - 7pm event start
-* Location: TBC, Glasgow City Centre
+* Location - The Hope bar on <a href="https://goo.gl/maps/DymTv">Waterloo Street, Glasgow</a>
 
