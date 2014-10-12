@@ -176,6 +176,7 @@ a:visited { color: rgb(38, 139, 210); }
 }
 
 .title {
+  margin-top: 42px;
   margin-bottom: 2em;
 }
 
