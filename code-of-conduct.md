@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Code of Conduct 
+layout: page
 ---
 
-# Code of Conduct
 Code Craft is an event intended for education, networking, and community. To ensure it is a welcoming and friendly environment for all, attendees, speakers, organisers, and volunteers at any Code Craft meetup are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the meetup and meetup-related social events.
 
 Code Craft is dedicated to providing a harassment-free meetup experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for our meetup, including the content of talks. Code Craft participants violating these rules may be asked to leave at the discretion of the meetup organisers.
@@ -23,7 +22,7 @@ Additionally, this Code of Conduct may change from time to time. We will endeavo
 	- Joe Wright: joe@joejag.com
 - Urgent emergency services: 999
 - Non-urgent police number: 101
-- Rape Crisis Scotland: 08088 01 03 02, http://www.rapecrisisscotland.org.uk
+- Rape Crisis Scotland: 08088 01 03 02
 
 We expect participants to follow these rules at all meetup venues and meetup-related social events.
 
