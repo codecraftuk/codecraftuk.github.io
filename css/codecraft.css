@@ -50,3 +50,10 @@ h1 {
 .header img {
   width: 100px;
 }
+
+
+@media (max-width: 500px) {
+  .jumbotron img {
+    width: 50px;
+  }
+}

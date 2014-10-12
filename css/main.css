@@ -175,6 +175,7 @@ a:visited { color: rgb(38, 139, 210); }
   vertical-align: middle;
 }
 
+
 .title {
   margin-top: 42px;
   margin-bottom: 2em;
@@ -188,4 +189,26 @@ a:visited { color: rgb(38, 139, 210); }
 
 .site h2 {
   color: #EB9D00;
+}
+
+.site {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (max-width: 500px) {
+  body {
+    font-size: 16px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  .header img {
+    width: 50px;
+  }
+  .title a {
+    font-size: 36px;
+  }
 }
