@@ -15,6 +15,11 @@ h1 {
   padding-top: 0;
   padding-bottom: 0;
   background-color: transparent;
+  margin-top: 2em;
+}
+
+.jumbotron img {
+  width: 100px;
 }
 
 .meetups {
@@ -25,12 +30,23 @@ h1 {
   min-height: 165px;
 }
 
+.meetups h2 {
+  color: orange;
+}
+
 .event-image {
   margin-top: 3%;
 }
 
 .footer {
   text-align: center;
-  height: 60px;
-  padding-top: 3em;
+  padding: 1em;
+  background: #F1F1EF;
+  border-bottom: solid 5px #B9BEC4;
+  margin-top: 1em;
+  font-size: 1.2em;
+}
+
+.header img {
+  width: 100px;
 }
