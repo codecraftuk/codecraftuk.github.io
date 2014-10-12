@@ -178,7 +178,7 @@ a:visited { color: rgb(38, 139, 210); }
 
 .title {
   margin-top: 42px;
-  margin-bottom: 2em;
+  margin-bottom: 0;
 }
 
 .title a {
@@ -211,4 +211,64 @@ a:visited { color: rgb(38, 139, 210); }
   .title a {
     font-size: 36px;
   }
+}
+
+
+body { 
+  background: white no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(white), to(#dddddd));
+  font-weight: 300;
+  height: 100%;
+  min-height: 100%;
+  background-attachment: fixed;
+}
+
+a {
+  text-decoration: none;
+}
+
+.jumbotron {
+  text-align: center;
+  font-size: 1.15em;
+}
+
+.meetups {
+  font-size: 1em;
+  background: white;
+  border-bottom: solid 5px #B9BEC4;
+  padding: 5px 25px 0.5em 25px;
+  min-height: 165px;
+  margin-bottom: 1em;
+}
+
+.meetups h2 {
+  color: #dd9400;
+  margin-bottom: 0.3em;
+}
+
+.event-image {
+  margin-top: 3%;
+}
+
+.footer {
+  text-align: center;
+  background: #F1F1EF;
+  border-bottom: solid 5px #B9BEC4;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 1em 0 0 0;
+  line-height: 1;
+  margin-bottom: 1em;
+}
+
+.post {
+  margin-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+.post h2 {
+  margin-top: 0.5em;
+}
+
+.lead {
+  font-weight: 400
 }
