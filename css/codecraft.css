@@ -19,6 +19,10 @@ h1 {
 
 .meetups {
   font-size: 1.25em;
+  background: white;
+  border-bottom: solid 5px #B9BEC4;
+  padding: 5px 25px 0px 25px;
+  min-height: 165px;
 }
 
 .event-image {
