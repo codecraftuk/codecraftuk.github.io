@@ -1,4 +1,4 @@
 name: CodeCraft
 markdown: redcarpet
-pygments: true
+highligher: true
 permalink: /events/:year/:month/:title
