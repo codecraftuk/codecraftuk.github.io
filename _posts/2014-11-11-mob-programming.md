@@ -17,6 +17,8 @@ This is the first event we've held outside of a pub, and Arnold Clark have offer
 
 All visitors need to access the office via the parking garage at the rear of the building. Visitors can use their car park and there is plenty of space for cyclists to leave bikes.
 
+Detailed directions are available in a [pdf](http://codecraftuk.org/files/arnold_clark_st_georges_access.pdf)
+
 * Details: Mob Programming
 * Date - Thursday 20th November 2014
 * Time - 6:30pm to 8:45pm
