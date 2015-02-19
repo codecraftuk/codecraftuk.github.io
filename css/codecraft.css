@@ -214,7 +214,7 @@ a:visited { color: rgb(38, 139, 210); }
 }
 
 
-body { 
+body {
   background: white no-repeat top center -webkit-gradient(radial, center top, 0, center top, 600, from(white), to(#cdcdcd));
   font-weight: 300;
   height: 100%;
@@ -270,4 +270,10 @@ a {
 
 .lead {
   font-weight: 400
+}
+
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
