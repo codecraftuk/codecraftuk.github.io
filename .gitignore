@@ -18,4 +18,4 @@ _yardoc
 doc/
 .sass-cache/
 _site
-.DS_Store/
+.DS_Store
