@@ -1,13 +1,26 @@
 ---
-title: Code of Conduct 
+title: Code of Conduct
 layout: page
 ---
 
 CodeCraft is an event intended for education, networking, and community. To ensure it is a welcoming and friendly environment for all, attendees, speakers, organisers, and volunteers at any CodeCraft meetup are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the meetup and meetup-related social events.
 
+## Ground Rules
+
+These ground rules are the guidelines that help to keep our discussion on track, and prevent it from deteriorating into namecalling or simply argument.
+
+* Everyone should treat everyone else with respect: no name-calling, no emotional outbursts, no accusations.
+* No arguments directed at people – only at ideas and opinions.  Disagreement should be respectful – no ridicule.
+* Don’t interrupt.  Listen to the whole of others’ thoughts – actually listen, rather than just running over your own response in your head.
+* Respect the group’s time.  Try to keep your comments reasonably short and to the point, so that others have a chance to respond.
+* Consider all comments seriously, and try to evaluate them fairly.  Others’ ideas and comments may change your mind, or vice versa: it’s important to be open to that.
+* Don’t be defensive if someone disagrees with you.  Evaluate both positions, and only continue to argue for yours if you continue to believe it’s right.
+* Everyone is responsible for following and upholding the ground rules.
+
+## Harassemnt-free meetup
+
 CodeCraft is dedicated to providing a harassment-free meetup experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for our meetup, including the content of talks. CodeCraft participants violating these rules may be asked to leave at the discretion of the meetup organisers.
 
-## The Longer Version
 Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate Sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
 If a participant engages in harassing behaviour, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.
