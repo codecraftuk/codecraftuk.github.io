@@ -1,24 +1,19 @@
 ---
-title: Constitution
+title: Code Craft Consitution
 layout: conf
 ---
 
-## Code Craft Consitution
-
 (adopted on 24/09/2014)
 
-| Contents |    |  
------------------------
-| GENERAL | name, objects, powers, general structure | clauses 1-4
-| MEMBERS | qualifications, application, subscription, register, withdrawal, expulsion | clauses 5-13
-| GENERAL MEETINGS (meetings of members) | general, notice, procedure
-clauses 14-27
-| MANAGEMENT COMMITTEE | maximum number,  eligibility, election/ retiral/re-election, termination of office, register, office bearers, powers, personal interests | clauses 28-45
-| MANAGEMENT COMMITTEE MEETINGS | procedure | clauses 46-54
-| ADMINISTRATION | committees, operation of bank accounts etc., minutes, accounting records and annual accounts, notices | clauses 55-63
-| MISCELLANEOUS | dissolution, alterations to the constitution, interpretation, initial management committee members | clauses 64-70
-
-
+| Contents                               |                                                                                                                                          |               |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| General                                | name, objects, powers, general structure                                                                                                 | clauses 1-4   |
+| Members                                | qualifications, application, subscription, register, withdrawal, expulsion                                                               | clauses 5-13  |
+| General Meetings (Meetings of Members) | general, notice, procedure                                                                                                               | clauses 14-27 |
+| Management Committee                   | maximum number,  eligibility, election/retiral/re-election, termination of office, register, office bearers, powers, personal interests | clauses 28-45 |
+| Management Committee Meetings          | procedure                                                                                                                                | clauses 46-54 |
+| Administration                         | committees, operation of bank accounts etc., minutes, accounting records and annual accounts, notices                                    | clauses 55-63 |
+| Miscellaneous                          | dissolution, alterations to the constitution, interpretation, initial management committee members                                       | clauses 64-70 |
 
 ### Name
 
