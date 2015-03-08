@@ -11,13 +11,13 @@ These ground rules are the guidelines that help to keep our discussion on track,
 
 * Everyone should treat everyone else with respect: no name-calling, no emotional outbursts, no accusations.
 * No arguments directed at people – only at ideas and opinions.  Disagreement should be respectful – no ridicule.
-* Don’t interrupt.  Listen to the whole of others’ thoughts – actually listen, rather than just running over your own response in your head.
+* Listen to the whole of others’ thoughts – actually listen, rather than just running over your own response in your head.
 * Respect the group’s time.  Try to keep your comments reasonably short and to the point, so that others have a chance to respond.
 * Consider all comments seriously, and try to evaluate them fairly.  Others’ ideas and comments may change your mind, or vice versa: it’s important to be open to that.
-* Don’t be defensive if someone disagrees with you.  Evaluate both positions, and only continue to argue for yours if you continue to believe it’s right.
-* Everyone is responsible for following and upholding the ground rules.
+* If someone disagrees with you evaluate both positions, and only continue to argue for yours if you continue to believe it’s right. Our discussions are about learning, so try to be open to disagreement rather than defensive.
+* Everyone is responsible for following the ground rules, and should help uphold them where they feel able to do so. The organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup. 
 
-## Harassemnt-free meetup
+## Harassment-free meetup
 
 CodeCraft is dedicated to providing a harassment-free meetup experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for our meetup, including the content of talks. CodeCraft participants violating these rules may be asked to leave at the discretion of the meetup organisers.
 
