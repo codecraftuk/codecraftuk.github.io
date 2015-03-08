@@ -31,7 +31,14 @@ p { margin: 1em 0; }
 a         { color: rgb(38, 139, 210); }
 a:hover   { color: rgb(38, 139, 210); }
 a:visited { color: rgb(38, 139, 210); }
-
+table, th, td {
+    text-align: left;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    padding: 4px;
+}
 /*****************************************************************************/
 /*
 /* Home
