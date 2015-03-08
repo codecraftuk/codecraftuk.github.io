@@ -7,13 +7,13 @@ CodeCraft is an event intended for education, networking, and community. To ensu
 
 ## Ground Rules
 
-We want the discussion to be as interesting, useful and productive as possible. Without some rules in place we risk the conversations going off topic or turning into argument. To get the most out of the event we’d ask everyone to comply with the following rules:
+We want the discussion to be as interesting, useful and productive as possible. Without some rules in place we risk the conversations going off topic and people feeling attacked. To get the most out of the event we’d ask everyone to comply with the following rules:
 
 * No arguments directed at people – only at ideas and opinions.  Disagreement should be respectful.
 * Listen to the whole of others’ thoughts – actually listen, rather than just running over your own response in your head.
 * Respect the group’s time.  Try to keep your comments reasonably short and to the point, so that others have a chance to respond.
 * Consider all comments seriously, and try to evaluate them fairly.  Others’ ideas and comments may change your mind, or vice versa: it’s important to be open to that.
-* If someone disagrees with you evaluate both positions, and only continue to argue for yours if you continue to believe it’s right. Our discussions are about learning, so try to be open to disagreement rather than defensive.
+* If someone disagrees with you then evaluate both positions, and only continue to argue for yours if you continue to believe it’s right. Our discussions are about learning, so try to be open to disagreement rather than defensive.
 * Everyone is responsible for following the ground rules, and should help uphold them where they feel able to do so. The organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.
 
 ## Harassment-free meetup
