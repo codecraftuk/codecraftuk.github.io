@@ -10,7 +10,7 @@ layout: conf
 | General                                | name, objects, powers, general structure                                                                                                 | clauses 1-4   |
 | Members                                | qualifications, application, subscription, register, withdrawal, expulsion                                                               | clauses 5-13  |
 | General Meetings (Meetings of Members) | general, notice, procedure                                                                                                               | clauses 14-27 |
-| Management Committee                   | maximum number,  eligibility, election/retiral/re-election, termination of office, register, office bearers, powers, personal interests | clauses 28-45 |
+| Management Committee                   | maximum number,  eligibility, election/retiral/re-election, termination of office, register, office bearers, powers, personal interests  | clauses 28-45 |
 | Management Committee Meetings          | procedure                                                                                                                                | clauses 46-54 |
 | Administration                         | committees, operation of bank accounts etc., minutes, accounting records and annual accounts, notices                                    | clauses 55-63 |
 | Miscellaneous                          | dissolution, alterations to the constitution, interpretation, initial management committee members                                       | clauses 64-70 |
@@ -302,9 +302,9 @@ a member of the management committee will not be debarred from entering into an 
 
 69)	For the purposes of this constitution, 
 
-	(a) 	the expression “charity” shall mean a body which is either a “Scottish charity” within the meaning of section 13 of the Charities and Trustee Investment (Scotland) Act 2005 or a “charity” within the meaning of section 96 of the Charities Act 1993
+(a) the expression “charity” shall mean a body which is either a “Scottish charity” within the meaning of section 13 of the Charities and Trustee Investment (Scotland) Act 2005 or a “charity” within the meaning of section 96 of the Charities Act 1993
 
-	(b)	the expression “charitable purpose” shall mean a  charitable purpose under section 7 of the Charities and Trustee Investment (Scotland) Act 2005 which is also regarded as a charitable purpose in relation to the application of the Taxes Acts;
+(b)	the expression “charitable purpose” shall mean a  charitable purpose under section 7 of the Charities and Trustee Investment (Scotland) Act 2005 which is also regarded as a charitable purpose in relation to the application of the Taxes Acts;
 
 70)	Any reference in this constitution to a provision of any legislation shall include any statutory modification or re-enactment of that provision in force from time to time.
 
@@ -330,21 +330,3 @@ Chair
 
 Joe Wright - 
 Treasurer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
