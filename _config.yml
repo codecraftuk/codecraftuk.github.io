@@ -5,3 +5,5 @@ redcarpet:
 
 highligher: true
 permalink: /events/:year/:month/:title
+gems:
+  - jekyll-redirect-from
