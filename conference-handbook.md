@@ -1,3 +1,8 @@
+---
+title: Conference Handbook
+layout: conf
+---
+
 # Idealogy
 
 * Participants conferring with Guides directing
