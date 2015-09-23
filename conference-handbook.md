@@ -15,7 +15,9 @@ layout: conf
 
 * The guided conversation circle (15-21 chairs in a circle with a gap)
 * The guided conversation format
+* Venue Selection
 * Ticketing
+* Pricing
 * Marketing
 * Front of house
 * Finding Guides
