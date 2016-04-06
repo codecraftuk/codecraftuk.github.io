@@ -5,7 +5,7 @@ title: What is Simplicity?
 
 For our April event, we'll be running a workshop to help us answer the question: "What is simplicity in code?"
 
-There have been a few attempts to make this subjective topic into an objective measure. The most famous is the Kent Beck's [four simple rules](http://c2.com/cgi/wiki?XpSimplicityRules) which Ron Jeffries reworked into an acronym, [TUBE](http://www.extremeprogramming.org/rules/simple.html).
+There have been a few attempts to make this subjective topic into an objective measure. The most famous is the Kent Beck's [four simple rules](http://c2.com/cgi/wiki?XpSimplicityRules) which Zachary Spencer reworked into an acronym, [TUBE](http://www.extremeprogramming.org/rules/simple.html).
 
 Evan Czaplicki, the creator of Elm, is encouraging developers to speak more directly about software concepts, in order to allow people to understand them without being scared off by complicated terms. For an example of this, watch nine minutes of his excellent talk at [Curry On - Prague](http://www.youtube.com/watch?v=oYk8CKH7OhE&t=20m50s).
 
