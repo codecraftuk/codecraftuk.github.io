@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplicity: A Guided Conversation
+title: "Simplicity: A Guided Conversation"
 ---
 
 For our August event, we'll be running a <a href="http://guidedconversations.org/">Guided Conversation</a> entitled, "Simplicity".
