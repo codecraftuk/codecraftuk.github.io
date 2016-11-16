@@ -12,4 +12,4 @@ It doesn't matter if you don't have a topic, you may be able to provide valuable
 * Details: Lean Coffee for Craftmanship
 * Date - Thursday 17th November 2016
 * Time - 7pm event start
-* Location: <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (hopefully upstairs)
+* Location: <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (probably upstairs)
