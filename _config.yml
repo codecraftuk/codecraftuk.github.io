@@ -8,3 +8,8 @@ highligher: true
 permalink: /events/:year/:month/:title
 gems:
   - jekyll-redirect-from
+
+
+title: CodeCraft
+url: http://www.codecraftuk.org
+description: "We are a software craftsmanship meetup. We discuss, demonstrate and debate how to write well-structured, malleable software."
