@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lean Coffee
-description: For our January event, we're going to have a Lean Coffee session.
+description: For our January event, we're going to have a Lean Coffee session. 7pm, Thursday 19th January, The Raven.
 ---
 
 For our January event, we're going to have another Lean Coffee session. Everyone has questions about software development, craftmanship and engineering techniques that they'd like to discuss with a like-minded group: this is your chance.
