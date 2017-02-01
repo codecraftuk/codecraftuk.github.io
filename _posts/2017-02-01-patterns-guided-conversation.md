@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Patterns: A Guided Conversation
-description: For our February event, we're going to have a Guided Conversation about patterns. 7pm, Thursday 16th February, The Raven.
+title: "Patterns: A Guided Conversation"
+description: For our February event, we're going to have a Guided Conversation about patterns. 7pm, Thursday 16th February, at The Raven.
 ---
 
 For our February event, we're going to have a [Guided Conversation](http://guidedconversations.org/) about Patterns. The idea of Patterns appear throughout various strands of software history and software craftsmanship practice,
