@@ -23,4 +23,4 @@ While running locally there is a page with sample Tweet text available at:
 
 `http://localhost:4000/tweets.txt`
 
-It's controlled by `_plugins/tweets.rb`. The date, link and location are constants in the `#generate` method.
+It's controlled by `_plugins/tweets.rb`. The date, link and location are constants in the [`#generate`](https://github.com/codecraftuk/codecraftuk.github.io/blob/master/_plugins/tweets.rb#L93) method.
