@@ -90,9 +90,9 @@ module Jekyll
 
   class ArchiveGenerator < Generator
     def generate(site)
-      date = Date.new(2017,3,16)
-      url = 'http://www.codecraftuk.org/events/2017/03/interviews'
-      location = "Swipii's Offices"
+      date = Date.new(2017,4,20)
+      url = 'https://www.meetup.com/meetup-group-SHqOxMXh/events/238878457/'
+      location = "The South Block"
 
       page = PageWithoutAFile.new(site, site.dest, "", "tweets.txt")
       page.content = LeanCoffeeTweets.new.content(date, url, location) + GuidedConversationTweets.new.content(date, url, location) + SpecialEventTweets.new.content(date, url, location)
