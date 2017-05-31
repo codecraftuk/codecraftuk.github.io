@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Pair Programming Ping Pong Pattern"
 description: For our June event, we’re doing a Pair Programming and TDD exercise called the Ping Pong Pattern. 7pm, Thursday 15th June 2017, at JP Morgan, 45 Waterloo St, Glasgow, G2 6HS.
