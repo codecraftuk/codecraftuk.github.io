@@ -242,13 +242,46 @@ a {
   font-size: 1em;
   background: white;
   border-bottom: solid 5px #B9BEC4;
-  padding: 5px 25px 0.5em 25px;
+  padding: 2.5rem 2.5rem 3rem 2.5rem;
   margin-bottom: 1em;
 }
 
-.meetups h2 {
+.meetups h1 {
   color: #dd9400;
-  margin-bottom: 0.3em;
+  font-size: 3rem;
+  line-height: 3rem;
+  font-weight: bold;
+  margin-bottom: 0.6rem;
+}
+
+.meetups h2 {
+  font-size: 2.25rem;
+  line-height: 2.25rem;
+  color: black;
+  margin-bottom: 1.0rem;
+  font-weight: 400;
+  text-align: left;
+}
+
+.meetups h2 a {
+  text-decoration: underline;
+  color: black;
+}
+
+.meetups i {
+  width: 2rem;
+}
+
+.meetups h3 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  color: #4F4F4F;
+  text-transform: uppercase;
+}
+
+.meetups h3 a {
+  color: #4F4F4F;
+  text-decoration: underline;
 }
 
 .event-image {
