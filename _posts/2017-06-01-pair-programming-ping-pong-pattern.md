@@ -4,6 +4,10 @@ title: "Pair Programming Ping Pong Pattern"
 description: For our June event, we’re doing a Pair Programming and TDD exercise called the Ping Pong Pattern. 7pm, Thursday 15th June 2017, at JP Morgan, 45 Waterloo St, Glasgow, G2 6HS.
 ---
 
+*** PLEASE NOTE A TICKET IS REQUIRED ***
+
+[Get Tickets Here](https://ti.to/codecraftconf/codecraft-pair-programming-ping-pong-pattern)
+
 For our June event, we’re doing a Pair Programming and TDD exercise called the [Ping Pong Pattern](http://wiki.c2.com/?PairProgrammingPingPongPattern).
 
 We’ll work through a programming exercise in pairs using the pattern and then discuss how we found the process.
@@ -12,7 +16,7 @@ Don’t worry if you’ve never pair programmed or done TDD before. We’ll be p
 
 Please bring along your laptops!
 
-JP Morgan have kindly volunteered to host us at their Glasgow offices on 45 Waterloo St, Glasgow G2 6HS, so you will need to sign-up to get on the list: [CodeCraft Pair Programming Ping Pong Pattern Sign-Up](https://ti.to/codecraftconf/codecraft-pair-programming-ping-pong-pattern). They will also be providing pizza and drinks.
+JP Morgan have kindly volunteered to host us at their Glasgow offices on 45 Waterloo St, Glasgow G2 6HS, so you will need to sign-up to get on the list [which you can get here](https://ti.to/codecraftconf/codecraft-pair-programming-ping-pong-pattern). They will also be providing pizza and drinks.
 
 We’ll be letting people in from around 6:30pm, but no entry will be possible after 7pm, so please be sharp!
 

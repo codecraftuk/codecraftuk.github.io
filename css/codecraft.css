@@ -290,6 +290,10 @@ a {
   margin-bottom: 0.5rem;
 }
 
+.meetups .description a {
+  text-decoration: underline;
+}
+
 .meetups .meetups-timeanddate {
   margin-top: 1.5rem;
 }
