@@ -248,23 +248,23 @@ a {
 
 .meetups h1 {
   color: #dd9400;
-  font-size: 3rem;
-  line-height: 3rem;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
   font-weight: bold;
-  margin-bottom: 0.6rem;
+  margin-bottom: 1.75rem;
 }
 
 .meetups h2 {
-  font-size: 2.25rem;
-  line-height: 2.25rem;
+  font-size: 1.75rem;
+  line-height: 1.75rem;
   color: black;
-  margin-bottom: 1.0rem;
+  
   font-weight: 400;
   text-align: left;
+  padding-bottom: 0.5rem;
 }
 
 .meetups h2 a {
-  text-decoration: underline;
   color: black;
 }
 
@@ -274,14 +274,24 @@ a {
 
 .meetups h3 {
   font-weight: 400;
-  font-size: 1.25rem;
-  color: #4F4F4F;
-  text-transform: uppercase;
+  font-size: .8rem;
+  line-height: 1.2rem;
+  color: #2F2F2F;
 }
 
 .meetups h3 a {
   color: #4F4F4F;
-  text-decoration: underline;
+}
+
+.meetups .description {
+  color: #5F5F5F;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.meetups .meetups-timeanddate {
+  margin-top: 1.5rem;
 }
 
 .event-image {
