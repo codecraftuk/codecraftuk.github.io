@@ -223,6 +223,7 @@
             margin-top: 1em;
             display: flex;
             justify-content: space-between;
+            flex-wrap: wrap;
         }
 
         .title {
@@ -231,8 +232,9 @@
         }
 
             .title img {
-                height: 40px;
-                width: auto;
+                max-width: 100%;
+                height: auto;
+                width: 20px;
             }
 
             .title a {
@@ -243,17 +245,14 @@
             }
 
 
-        @media only screen and (max-width: 480px) {
-            .title img {
-                height: 25px;
-            }
-            .title a {
-                font-size: 1.5em;
-            }
-        }
 
         .menu {
-            font-size: 0.75em;
+            line-height: 1em;
+        }
+        .menu a {
+            font-size: 0.8em;
+            color: black;
+            display: inline-block;
         }
 
         .footer {
@@ -267,7 +266,7 @@
 
         .jumbotron {
             text-align: left;
-            margin: 6em 0;
+            margin: 8em 0;
             float: none;
         }
 
@@ -314,7 +313,7 @@
         }
 
             .whatwherewhen .title {
-                font-size: 1.5em;
+                font-size: 1.15em;
                 text-transform: uppercase;
                 font-weight: 700;
             }
@@ -329,7 +328,7 @@
             border: 0px;
             padding: 2em;
             margin-bottom: 2em;
-            background-color: #f3f3f3;
+            border: 1px dotted #bbb;
         }
 
         .blue {
@@ -342,7 +341,7 @@
 
     <div class="container">
         <div class="header">
-            <div class="title"><img src="/images/codecraftlogoclrnew.png" /><a href="/"> {{ site.name }}</a></div>
+            <div class="title"><img src="/images/codecraftlogoclrnew.png" /> <a href="/"><b>CODE</b>CRAFT</a></div>
             <div class="menu"><a href="#events">EVENTS</a> | <a href="#who">WHO ARE WE?</a></div>
         </div>
 
