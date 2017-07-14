@@ -9,6 +9,6 @@ For our July event, we're going to have a [Guided Conversation](http://guidedcon
 Even if you're relatively new and have rarely worked on a team, you can still learn from the others, while asking questions that the more experienced participants might miss. We'll explain the format ([Guided Conversations](http://guidedconversations.org/)), and make sure everyone keeps up with the discussion.
 
 * Details: Collaboration: A Guided Conversation
-* Date - Thursday 20th June 2017
+* Date - Thursday 20th July 2017
 * Time - 7pm event start
 * Location: <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (upstairs)
