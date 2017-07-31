@@ -11,7 +11,7 @@ Whether you want to talk about TDD in practice, how to get started with BDD, mic
 
 It doesn't matter if you don't have a topic, you may be able to provide valuable perspective for others, or learn something new by just listening. It also doesn't matter if you don't know the Lean Coffee format, it's simple and we'll take the time to explain it before we get started.
 
-* Details: Collaboration: A Guided Conversation
+* Details: Lean Coffee
 * Date - Thursday 17th August 2017
 * Time - 7pm event start
 * Location: <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (upstairs)
