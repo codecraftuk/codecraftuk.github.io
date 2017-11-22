@@ -14,7 +14,7 @@ module Jekyll
       output += "\nThis month’s event is a Lean Coffee. If you’ve not been before Lean Coffees are a great place to see what we do. #{url}"
 
       output += "\n\n ** #{date.beginning_of_week(:monday)} @ 8AM (Start of week)"
-      output += "\nREMINDER: Lean Coffee event is this #{date.strftime('%A')}, at 7pm, in #{location}. Come and chat about craftsmanship: #{url}"
+      output += "\nREMINDER: Lean Coffee event is this #{date.strftime('%A')}, at 7pm, in #{location}. Come and chat about crafting software: #{url}"
 
       output += "\n\n ** #{date.yesterday} @ 8AM (Day before)"
       output += "\nREMINDER: CodeCraft is tomorrow! A Lean Coffee event in #{location}: #{url}"
@@ -41,7 +41,7 @@ module Jekyll
       output += "\nThis month’s event is a Guided Conversation on #{topic} on #{date.strftime('%A') + ' ' + date.day.ordinalize + ' ' + date.strftime('%B')}, in #{location}. #{url}"
 
       output += "\n\n ** #{date.beginning_of_week(:monday)} @ 8AM (Start of week)"
-      output += "\nGuided Conversation on #{topic} is this #{date.strftime('%A')}, at 7pm, in #{location}. Come and chat about craftsmanship: #{url}"
+      output += "\nGuided Conversation on #{topic} is this #{date.strftime('%A')}, at 7pm, in #{location}. Come and chat about crafting software: #{url}"
 
       output += "\n\n ** #{date.yesterday} @ 8AM (Day before)"
       output += "\nREMINDER: CodeCraft is tomorrow! A Guided Conversation on #{topic} in #{location}: #{url}"
@@ -68,7 +68,7 @@ module Jekyll
       output += "\nThis month’s event is a #{topic} on #{date.strftime('%A') + ' ' + date.day.ordinalize + ' ' + date.strftime('%B')}, in #{location}. #{url}"
 
       output += "\n\n ** #{date.beginning_of_week(:monday)} @ 8AM (Start of week)"
-      output += "\nREMINDER: Our #{topic} is this #{date.strftime('%A')}, at 7pm. Come and chat about craftsmanship: #{url}"
+      output += "\nREMINDER: Our #{topic} is this #{date.strftime('%A')}, at 7pm. Come and chat about crafting software: #{url}"
 
       output += "\n\n ** #{date.yesterday} @ 8AM (Day before)"
       output += "\nREMINDER: CodeCraft is tomorrow! A #{topic} in #{location}: #{url}"
