@@ -8,7 +8,7 @@ Last week we changed the main tagline on our website, from "We are a software cr
 
 CodeCraft was founded on the idea of diversity. Pretty literally. Our founders, Joe and Gary, enjoyed a good argument in the pub with each other but found that they agreed a little too much. Realising that would get boring, they decided to seek out others. When they couldn't find an existing meetup group that quite scratched their itch for cross-language technical practice discussions, they decided to start a new meetup.
 
-We figured at the time that, in order to differentiate ourselves from our friends at [Lean Agile Glasgow](https://www.meetup.com/Lean-Agile-Glasgow), we'd tag onto the idea of "software craftsmanship", rather than try position ourselves as "the technical part of Agile".
+We figured at the time that, in order to differentiate ourselves from our friends at [Lean Agile Glasgow](https://www.meetup.com/Lean-Agile-Glasgow), we'd tag onto the idea of "software craftsmanship", rather than try to position ourselves as "the technical part of Agile".
 
 CodeCraft was picked as a name as pleasantly alliterative, while taking from "craftsmanship" and "craft beer" (the latter being dropped from our event descriptions a long time ago).
 
