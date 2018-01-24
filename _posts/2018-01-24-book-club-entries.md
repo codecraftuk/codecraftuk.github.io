@@ -8,7 +8,7 @@ We kicked off 2018 with a brand new event format – A "Book Club" in which ever
 
 We have composed a list of worthy entries ( as deemed by the January attendees) for anyone's 2018  resolution.  The entries are as follows, in no particular order:   
 
-*Joy, Inc.: How We Built a Workplace People Love  - Richard Sheridan ( Book )  
+>Joy, Inc.: How We Built a Workplace People Love  - Richard Sheridan ( Book )  
 
 *Java Posse (Podcast – no longer updated)  
 
