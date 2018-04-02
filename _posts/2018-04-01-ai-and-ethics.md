@@ -6,7 +6,7 @@ description: For our April event, we're going to have a Guided Conversation abou
 
 Excitingly, we have teamed up with GlasgowAI for our April event: a few AI demos, followed by a guided conversation about ethics and AI. Clydesdale Bank has kindly volunteered to host us at their offices, so you will need to sign up for a free ticket here:   
 
-https://www.eventbrite.co.uk/e/codecraft-and-glasgowai-mashup-guided-conversation-about-ai-and-ethics-tickets-44765761598
+[Tickets here!](https://www.eventbrite.co.uk/e/codecraft-and-glasgowai-mashup-guided-conversation-about-ai-and-ethics-tickets-44765761598)
 
 It does not matter if you are new to the industry, or whether you have a broad AI knowledge – we will be going over some philosophical questions concerning AI, who is responsible for it and how we can make it better.
 
