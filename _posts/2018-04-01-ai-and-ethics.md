@@ -15,5 +15,5 @@ We will explain the format ([Guided Conversations](http://guidedconversations.or
 * Details: AI and Ethics: A Guided Conversation
 * Date - Thursday 19th April 2018
 * Time - 6.30pm event start
-* Location: <a href="https://goo.gl/maps/3DyUDZdg5BG2">Clydesdale Bank Head Office</a>, 155 St Vincent Place, Glasgow G1 2HL
+* Location: <a href="https://goo.gl/maps/Abt4RajY1ny">Clydesdale Bank Head Office</a>, 40 St Vincent Place, Glasgow G1 2HL
 * Tickets: [EventBrite](https://www.eventbrite.co.uk/e/codecraft-and-glasgowai-mashup-guided-conversation-about-ai-and-ethics-tickets-44765761598)
