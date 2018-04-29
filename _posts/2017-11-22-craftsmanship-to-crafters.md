@@ -25,4 +25,4 @@ The change itself was easy. The issue was raised on our internal Slack channel a
 
 While we feel that manifesto should probably change its title too, we've never really been tied to it anyway. We discuss anything we feel is relevant to people involved in the production of software. We've discussed modern agile, BDD, TDD, mental health in dev, big data, microservices, modern testing, and a whole mess of other stuff.
 
-Changing to use "Crafters" from there on was an easy and quick change. We were happy to do it if even one person feels more comfortable. We are always happy to hear how we could improve our effots to create a diverse and inclusive community. Please [let us know](mailto:contact@codecraftuk.org) if there's something else we can do. We do listen. We do change.
+Changing to use "Crafters" from there on was an easy and quick change. We were happy to do it if even one person feels more comfortable. We are always happy to hear how we could improve our efforts to create a diverse and inclusive community. Please [let us know](mailto:contact@codecraftuk.org) if there's something else we can do. We do listen. We do change.
