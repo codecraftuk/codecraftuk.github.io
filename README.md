@@ -4,12 +4,17 @@ This is a Jekyll based site. Jekyll is a static site generator which has free ho
 
 It uses a Ruby toolchain.
 
+If you have Docker you can run:
 ```
-# Install dependenices
-bundle install
+./run_with_docker.sh
+```
 
-# Run and watch for any changes to files
-bundle exec jekyll serve --watch
+Or with Ruby 2.4.0 with
+
+```
+./run_with_ruby.sh
+
+```
 
 # Check it out
 open http://localhost:4000
