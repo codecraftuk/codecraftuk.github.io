@@ -59,7 +59,7 @@ If you're not sure about a requirement just make something up, but try to keep t
 
 For simplicity, dont worry about error cases (what if deposit amount is negative? etc).
 
-Either use your favourite lanaguge/tool/framework to build the app or build it online using [codesandbox.com](https://codesandbox.io/s/qvk4ow0rqq).
+Either use your favourite lanaguge/tool/framework to build the app or build it online using [codesandbox.com](https://codesandbox.io/s/9349xjlnl4).
 
 Have fun
 
