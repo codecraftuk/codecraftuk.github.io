@@ -36,22 +36,23 @@ Please implement the following features:
 1. User can check balance
 
 2. User can make a deposit to the account.
- A deposit has:
- - amount,
- - type of 'deposit' 
- - 'from' account number. 
- We also need to store the transaction date.
-	
+  A deposit has:
+   - amount,
+   - type of 'deposit' 
+   - 'from' account number. <br/>
+   We also need to store the transaction date.<br/><br/>
+
+
 3. User can make a withdraw from the account.
   A withdrawl has:
    - amount
    - type of 'withdrawl'
-   - 'to' account number. 
-Again, please store the date.
+   - 'to' account number. <br/>
+   Again, please store the date.
 
 4. Account can have an overdraft. If user goes over the overdraft they are fined £10. The transaction type is 'fine'.
 
-5. User can get a list of transactions
+5. User can get a list of transactions.
 
 6. Account pays 2% interest on savings, calculated monthly.
 
@@ -61,10 +62,10 @@ For simplicity, dont worry about error cases (what if deposit amount is negative
 
 Either use your favourite lanaguge/tool/framework to build the app or build it online using [codesandbox.com](https://codesandbox.io/s/9349xjlnl4).
 
-Have fun
+Have fun!
 
 # Location
-TBC
+[SAS](https://goo.gl/maps/87Y37xfHY592), Cuprum, 480 Argyle St, Glasgow G2 8NH
 
 We’ll be letting people in from around 6:30pm, but no entry will be possible after 7pm, so please be sharp!
 
@@ -72,5 +73,5 @@ We’ll be letting people in from around 6:30pm, but no entry will be possible a
 * CodeCraft Pair Programming Ping Pong Pattern
 * Date - Thursday 21st June 2018
 * Time - 6:30pm, for 7pm event start
-* Location: <a href="https://goo.gl/maps/TBC">TBC</a>
+* Location: [SAS](https://goo.gl/maps/87Y37xfHY592)
 
