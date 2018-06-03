@@ -5,7 +5,7 @@ description: For our June event, we’re doing a Pair Programming and TDD exerci
 ---
 
 
-For our June event, we’re doing a Pair Programming and TDD exercise called the [Ping Pong Pattern](http://wiki.c2.com/?PairProgrammingPingPongPattern).
+For our June event, we're doing a joint event with <a href="http://www.pythonglasgow.org/">Python Glasgow</a>, a Pair Programming and TDD exercise called the [Ping Pong Pattern](http://wiki.c2.com/?PairProgrammingPingPongPattern).
 
 We’ll work through a programming exercise in pairs using the pattern and then discuss how we found the process.
 
