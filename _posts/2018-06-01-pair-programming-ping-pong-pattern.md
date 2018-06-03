@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pair Programming Ping Pong Pattern"
-description: For our June event, we’re doing a Pair Programming and TDD exercise called the Ping Pong Pattern. 7pm, Thursday 21st June 2018, at TBC.
+description: For our June event, we’re doing a Pair Programming and TDD exercise called the Ping Pong Pattern. 7pm, Thursday 21st June 2018, at SAS.
 ---
 
 
@@ -38,7 +38,7 @@ Please implement the following features:
 2. User can make a deposit to the account.
   A deposit has:
    - amount,
-   - type of 'deposit' 
+   - type of 'deposit'
    - 'from' account number. <br/>
    We also need to store the transaction date.<br/><br/>
 
@@ -69,9 +69,8 @@ Have fun!
 
 We’ll be letting people in from around 6:30pm, but no entry will be possible after 7pm, so please be sharp!
 
-# Details 
+# Details
 * CodeCraft Pair Programming Ping Pong Pattern
 * Date - Thursday 21st June 2018
 * Time - 6:30pm, for 7pm event start
 * Location: [SAS](https://goo.gl/maps/87Y37xfHY592)
-
