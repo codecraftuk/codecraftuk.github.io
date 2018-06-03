@@ -3,7 +3,9 @@ layout: post
 title: "Pair Programming Ping Pong Pattern"
 description: For our June event, we’re doing a Pair Programming and TDD exercise called the Ping Pong Pattern. 7pm, Thursday 21st June 2018, at SAS.
 ---
+## ** PLEASE NOTE A TICKET IS REQUIRED **
 
+[Tickets Here!](https://www.eventbrite.com/e/pair-programming-ping-pong-pattern-tickets-46696818441)
 
 For our June event, we're doing a joint event with <a href="http://www.pythonglasgow.org/">Python Glasgow</a>, a Pair Programming and TDD exercise called the [Ping Pong Pattern](http://wiki.c2.com/?PairProgrammingPingPongPattern).
 
@@ -26,9 +28,7 @@ In pairs:
 
 And so on. Refactoring is done whenever the need arises by whoever is driving.
 
-
-
-## The Problem - Bank Account
+# The Problem - Bank Account
 You are working for a new challenger bank building their backend system.
 
 Please implement the following features:
@@ -56,9 +56,9 @@ Please implement the following features:
 
 6. Account pays 2% interest on savings, calculated monthly.
 
-If you're not sure about a requirement just make something up, but try to keep things simple. Remember, it's just an excercise! We don't need to worry about GDRP compliance when doing a deposit!.
+If you're not sure about a requirement just make something up, but try to keep things simple. Remember, it's just an exercise! We don't need to worry about GDRP compliance when doing a deposit!
 
-For simplicity, dont worry about error cases (what if deposit amount is negative? etc).
+For simplicity, don't worry about error cases (what if deposit amount is negative? etc).
 
 Either use your favourite lanaguge/tool/framework to build the app or build it online using [codesandbox.com](https://codesandbox.io/s/9349xjlnl4).
 
@@ -74,3 +74,4 @@ We’ll be letting people in from around 6:30pm, but no entry will be possible a
 * Date - Thursday 21st June 2018
 * Time - 6:30pm, for 7pm event start
 * Location: [SAS](https://goo.gl/maps/87Y37xfHY592)
+* Tickets: [Here](https://www.eventbrite.com/e/pair-programming-ping-pong-pattern-tickets-46696818441)
