@@ -9,7 +9,7 @@ This is our first! Our meetup usually does not run presentation based events, as
 However, we have decided to organise a FirstTimeSpeakers event during which new speakers will be encouraged to give a 10-15 min talk about anything tech related - any stack, any softskill.  
 
 Why? Well, because we are interested in seeing new faces and hearing of new perspectives, experiences and technologies.
-We are welcoming meetup and we can also help speakers to prepare.
+We are a welcoming meetup and we can also help speakers to prepare.
 
 If this sounds like your cup of tea, sign up to speak [here](https://codecraft2.typeform.com/to/pq1KnK)
 
