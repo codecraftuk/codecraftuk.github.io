@@ -29,9 +29,8 @@ CodeCraft organisers will be happy to help participants contact security or poli
 Additionally, this Code of Conduct may change from time to time. We will endeavour to make it known when this happens through our normal public communication channels.
 
 ## Contact Information
-- CodeCraft Organisers:
-	- Gary Fleming: gary.fleming@gmail.com
-	- Joe Wright: joe@joejag.com
+
+- CodeCraft dedicated code of conduct reporting email address: <a href="mailto:coc@codecraftuk.org?Subject=CoC">coc@codecraftuk.org</a>
 - Urgent emergency services: 999
 - Non-urgent police number: 101
 - Rape Crisis Scotland: 08088 01 03 02
