@@ -5,6 +5,28 @@ layout: page
 
 CodeCraft is an event intended for education, networking, and community. To ensure it is a welcoming and friendly environment for all, attendees, speakers, organisers, and volunteers at any CodeCraft meetup are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the meetup and meetup-related social events.
 
+## Reporting Issues
+
+If you experience any issues during a CodeCraft event please use one of the following means to get in touch.
+
+- send an email to <a href="mailto:coc@codecraftuk.org?Subject=CoC">coc@codecraftuk.org</a>
+- Call or SMS the team on 07740 199135
+- Tweet to [@codecraftuk](https://twitter.com/codecraftuk)
+
+If you email or tweet, the code of conduct team are:
+
+- [Ewa Grabowiecka](https://twitter.com/lost_semicolon)
+- [Gary Fleming](https://twitter.com/garyfleming)
+- [Joe Wright](https://twitter.com/joe_jag)
+- [Keith Harrison](https://twitter.com/KeithDHar)
+- [Caroline Kirkhope](https://twitter.com/cazkirkhope)
+
+You can also contact:
+
+- Urgent emergency services: 999
+- Non-urgent police number: 101
+- Rape Crisis Scotland: 08088 01 03 02
+
 ## Ground Rules
 
 We want the discussion to be as interesting, useful and productive as possible. Without some rules in place we risk the conversations going off topic and people feeling attacked. To get the most out of the event we’d ask everyone to comply with the following rules:
@@ -27,15 +49,6 @@ If a participant engages in harassing behaviour, the meetup organisers may take 
 CodeCraft organisers will be happy to help participants contact security or police, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
 
 Additionally, this Code of Conduct may change from time to time. We will endeavour to make it known when this happens through our normal public communication channels.
-
-## Contact Information
-
-- CodeCraft dedicated code of conduct reporting email address: <a href="mailto:coc@codecraftuk.org?Subject=CoC">coc@codecraftuk.org</a>
-- Urgent emergency services: 999
-- Non-urgent police number: 101
-- Rape Crisis Scotland: 08088 01 03 02
-
-We expect participants to follow these rules at all meetup venues and meetup-related social events.
 
 ## License
 This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
