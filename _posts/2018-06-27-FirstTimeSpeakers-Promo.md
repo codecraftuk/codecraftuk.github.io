@@ -4,7 +4,7 @@ title: "FirstTimeSpeakers Promo"
 description: FirstTimeSpeakers Promo! All the details about how to sign up here!
 ---
 
-This is our first! Our meetup usually does not run presentation based events, as we focus on events during which everyone can participate and be heard.
+In general, our meetup udoes not run presentation based events, as we focus on events during which everyone can participate and be heard.
 
 However, we have decided to organise a FirstTimeSpeakers event during which new speakers will be encouraged to give a 10-15 min talk about anything tech related - any stack, any softskill.  
 
