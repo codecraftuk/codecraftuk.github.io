@@ -16,6 +16,6 @@ It doesn't matter if you're new to the industry, or whether your're experienced,
 
 * Details: Developer Responsibility: A Guided Conversation
 * Date - Thursday 19th July 2018
-* Time - Doors at 6.00pm, for a start around 6.15pm
+* Time - Doors at 6.30pm, for a start around 6.45pm
 * Location: [Clockwise, 77 Renfrew Street, Glasgow, UK, G2 3BZ](https://goo.gl/maps/1XHY2gr52zR2)
 * Tickets: [Free tickets on Eventbrite](https://www.eventbrite.com/e/developer-responsibility-a-guided-conversation-tickets-47887194889)
