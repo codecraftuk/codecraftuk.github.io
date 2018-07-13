@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "FirstTimeSpeakers Promo"
-description: FirstTimeSpeakers Promo! All the details about how to sign up here!
+title: "First Time Speakers"
+description: First Time Speakers! All the details about how to sign up here!
 ---
 
-In general, our meetup udoes not run presentation based events, as we focus on events during which everyone can participate and be heard.
+In general, our meetup does not run presentation based events, as we focus on events during which everyone can participate and be heard.
 
-However, we have decided to organise a FirstTimeSpeakers event during which new speakers will be encouraged to give a 10-15 min talk about anything tech related - any stack, any softskill.  
+However, we have decided to organise a First Time Speakers event during which new speakers will be encouraged to give a 10-15 min talk about anything tech related - any stack, any soft skill.  
 
 Why? Well, because we are interested in seeing new faces and hearing of new perspectives, experiences and technologies.
 We are a welcoming meetup and we can also help speakers to prepare.
