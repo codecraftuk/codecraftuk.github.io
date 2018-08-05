@@ -9,7 +9,7 @@ description: For our August event, We are welcoming new speakers to the stage! 6
 For our August event, we're going to have a FirstTimeSpeakers event! There will be two things happening on the night First Time Speakers Talks and Prep for future Speakers
 
 # First Time Speakers Talks
-6 speakers have been selected from the submissions for this event and they are ready to show their talks to the world. We have fantastic lightning talks lined up, with speakers from all tech backgrounds. So come long to see talks never seen before on the meetup scene! 
+6 speakers have been selected from the submissions for this event and they are ready to show their talks to the world. We have fantastic lightning talks lined up, with speakers from all tech backgrounds. So come long to see talks never seen before on the meetup scene!
 Schedule:
   * **6 20 - 6 30 Intro**
   * **6 30 - 6 50 Deborah Mayers : Simulating the Temple to Mithras: Using multisensory VR to (re)create the past**
@@ -35,4 +35,4 @@ We would like to carry on this tradition, and as part of the event we have a spa
 * Date - Thursday 16th of August
 * Time - Doors at 6.00pm, for a start at 6 20pm
 * Location: [Skyscanner, 155 St Vincent St, Glasgow G2 5NW](https://goo.gl/maps/9ggBd62krvv)
-* Tickets: [Free tickets on Eventbrite] Eventbrite](https://www.eventbrite.com/e/firsttimespeakerscodecraft-tickets-48773745586)
+* Tickets: [Free tickets on Eventbrite Eventbrite](https://www.eventbrite.com/e/firsttimespeakerscodecraft-tickets-48773745586)
