@@ -1,0 +1,103 @@
+$pink: rgb(227, 72, 174);
+$green: rgb(72, 227, 208);
+$blue: rgb(0, 128, 221);
+
+.home {
+    padding-top: 80px;
+
+    .main-text {
+        padding-bottom: 2em;
+
+        h1 {
+            font-size: 52px;
+            font-weight: 700;
+            margin-bottom: 16px;
+        }
+
+        p {
+            font-size: 24px;
+            font-weight: 400;
+            color: #444;
+            padding-bottom: 8px;
+        }
+    }
+
+    .upcoming-events {
+        background: linear-gradient(180deg, rgba(0, 128, 221, 0.0891) 0%, rgba(196, 196, 196, 0.27) 99.77%);
+        border-radius: 17px;
+        
+        h1 {
+            padding-top: 32px;
+            font-size: 32px;
+            font-weight: 500;
+        }
+
+        .event {
+            background-color: white;
+            display: flex;
+            flex-direction: row;
+            margin-top: 20px;
+            margin-left: 40px;
+            margin-right: 40px;
+
+            .event-date-time {
+                color: white;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                text-align: center;
+                min-width: 80px;
+                height: 140px;
+
+                .event-date {
+                    font-weight: 300;
+                    font-size: 58px;
+                    line-height: 50px;
+                }
+
+                .event-month {
+                    font-weight: 700;
+                    font-size: 24px;
+                    text-transform: uppercase;
+                }
+            }
+
+            .event-date-time--pink {
+                background-color: $pink;
+            }
+        
+            .event-date-time--green {
+                background-color: $green;
+            }
+
+            .event-details {
+                padding-left: 20px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+
+                .event-name {
+                    font-weight: 600;
+                    font-size: 32px;
+                    line-height: 32px;
+                    text-transform: uppercase;
+                    i{
+                        color: $blue;
+                        font-style: normal;
+                    }
+                }
+
+                .event-location {
+                    font-weight: 600;
+                    font-size: 18px;
+                }
+
+                .event-description {
+                    font-weight: 400;
+                    font-size: 14px;
+                }
+            }
+        }
+        
+    }
+}
