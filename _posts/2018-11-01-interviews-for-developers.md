@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating effective and inclusive interviews for developers
+title: Interview Workshops - Creating an Inclusive Developer Interview Process
 description: For our November event, we're going to run a workshop on Creating effective and inclusive interviews for developers. 6.00pm, Thursday 15th November, at SAS
 ---
 
