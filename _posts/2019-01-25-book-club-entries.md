@@ -7,7 +7,7 @@ For the second year in the row, we kick started our year with a book club event 
 
 We have composed a list of worthy entries (as deemed by the January attendees) for anyone's 2019 reading/listening resolutions.  The entries are as follows, in no particular order:   
 
-#### Books
+#### Books:
 * Bounce - Matthew Syek (Book)
 * Mindset: Changing The Way You think To Fulfil Your Potential - Dr Carol Dweck (Book)
 * Outliers: The Story of Success - Malcolm Gladwell (Book)
@@ -23,7 +23,7 @@ We have composed a list of worthy entries (as deemed by the January attendees) f
 * White Fragility: Why It's So Hard for White People to Talk About Racism - Robin DiAngelo (Book)
 * This is Going to Hurt: Secret Diaries of a Junior Doctor - Adam Kay (Book)
 
-#### Code Technical Books
+#### Code Technical Books:
 * Working Effectively with Legacy Code - Michael Feathers (Book)
 * Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin (Book)
 * Refactoring: Improving the Design of Existing Code - Martin Fowler  (Book)
@@ -31,7 +31,7 @@ We have composed a list of worthy entries (as deemed by the January attendees) f
 * Smalltalk Best Practice Patterns - Kent Beck (Book)
 * Test Driven Development: By Example (The Addison-Wesley Signature Series) - Kent Beck (Book)
 
-#### Podcasts
+#### Podcasts:
 * Syntax Fm (Podcast)
 * Soft skills engineering (Podcast)
 * Futility Closet (Podcast)
