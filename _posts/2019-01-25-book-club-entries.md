@@ -22,6 +22,7 @@ We have composed a list of worthy entries (as deemed by the January attendees) f
 * The Phoenix Project: A Novel about It, Devops, and Helping Your Business Win - Gene Kim and Kevin Behr (Book)
 * White Fragility: Why It's So Hard for White People to Talk About Racism - Robin DiAngelo (Book)
 * This is Going to Hurt: Secret Diaries of a Junior Doctor - Adam Kay (Book)
+* Working - Harvey Pekar's adaptation of Stud Terkel's book, 
 
 #### Code Technical Books:
 * Working Effectively with Legacy Code - Michael Feathers (Book)
