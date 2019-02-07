@@ -5,99 +5,157 @@ $blue: rgb(0, 128, 221);
 .home {
     padding-top: 80px;
 
-    .main-text {
-        padding-bottom: 2em;
+    .hero {
+        .main-text {
 
-        h1 {
-            font-size: 52px;
-            font-weight: 700;
-            margin-bottom: 16px;
-        }
+            h1 {
+                font-size: 52px;
+                line-height: 58px;
+                font-weight: 700;
+                margin-bottom: 0px;
+            }
 
-        p {
-            font-size: 24px;
-            font-weight: 400;
-            color: #444;
-            padding-bottom: 8px;
-        }
-    }
+            .subtext {
+                margin-top: 24px;
+                margin-bottom: 30px;
 
-    .upcoming-events {
-        background: linear-gradient(180deg, rgba(0, 128, 221, 0.0891) 0%, rgba(196, 196, 196, 0.27) 99.77%);
-        border-radius: 17px;
-        
-        h1 {
-            padding-top: 32px;
-            font-size: 32px;
-            font-weight: 500;
-        }
-
-        .event {
-            background-color: white;
-            display: flex;
-            flex-direction: row;
-            margin-top: 20px;
-            margin-left: 40px;
-            margin-right: 40px;
-
-            .event-date-time {
-                color: white;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                text-align: center;
-                min-width: 80px;
-                height: 140px;
-
-                .event-date {
-                    font-weight: 300;
-                    font-size: 58px;
-                    line-height: 50px;
-                }
-
-                .event-month {
-                    font-weight: 700;
+                p {
                     font-size: 24px;
-                    text-transform: uppercase;
+                    line-height: 30px;
+                    font-weight: 300;
+                    color: #222;
+                    margin-bottom: 16px;
                 }
             }
 
-            .event-date-time--pink {
-                background-color: $pink;
-            }
-        
-            .event-date-time--green {
-                background-color: $green;
-            }
-
-            .event-details {
-                padding-left: 20px;
+            .follow-us {
                 display: flex;
-                flex-direction: column;
-                justify-content: center;
+                align-items: center;
 
-                .event-name {
-                    font-weight: 600;
-                    font-size: 32px;
-                    line-height: 32px;
-                    text-transform: uppercase;
-                    i{
-                        color: $blue;
-                        font-style: normal;
+                header {
+                    font-size: 24px;
+                    color: #000;
+                }
+
+                img {
+                    width: 36px;
+                    margin-left: 12px;
+                    border-radius: 6px;
+                }
+            }
+        }
+        
+        .upcoming-events-overlay {
+            z-index: 100;
+        }
+        .upcoming-events {
+            z-index: 100;
+            background: linear-gradient(180deg, rgba(0, 128, 221, 0.0891) 0%, rgba(196, 196, 196, 0.27) 99.77%);
+            border-radius: 17px;
+            padding-bottom: 200px;
+            margin-right: 20px;
+
+            h1 {
+                padding-top: 32px;
+                font-size: 32px;
+                font-weight: 600;
+            }
+
+            .event {
+                background-color: white;
+                display: flex;
+                flex-direction: row;
+                margin-top: 28px;
+                margin-left: 20px;
+                margin-right: 20px;
+                box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
+
+                .event-date-time {
+                    color: white;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    text-align: center;
+                    min-width: 80px;
+                    height: 160px;
+
+                    .event-date {
+                        font-weight: 300;
+                        font-size: 52px;
+                        line-height: 50px;
+                    }
+
+                    .event-month {
+                        font-weight: 600;
+                        font-size: 28px;
+                        text-transform: uppercase;
                     }
                 }
 
-                .event-location {
-                    font-weight: 600;
-                    font-size: 18px;
+                .event-date-time--pink {
+                    background-color: $pink;
                 }
 
-                .event-description {
-                    font-weight: 400;
-                    font-size: 14px;
+                .event-date-time--green {
+                    background-color: $green;
+                }
+
+                .event-details {
+                    padding-top: 8px;
+                    padding-left: 20px;
+                    padding-right: 20px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-start;
+
+                    .event-name {
+                        font-weight: 600;
+                        font-size: 28px;
+                        line-height: 32px;
+                        text-transform: uppercase;
+
+                        i {
+                            color: $blue;
+                            font-style: normal;
+                        }
+                    }
+
+                    .event-location {
+                        font-weight: 600;
+                        font-size: 18px;
+                    }
+
+                    .event-description {
+                        font-weight: 400;
+                        font-size: 15px;
+                    }
+
+                    .event-more-info-link {
+                        font-weight: 400;
+                        font-size: 15px;
+                        color: $blue;
+                        padding-top: 4px;
+                    }
                 }
             }
         }
-        
+    }
+
+    .nomadic {
+        z-index: 1;
+        transform: translateY(-160px);
+        height: 600px;
+        padding-top: 200px;
+        background: radial-gradient(1000px at 0% 15%, #C98700 0%, #003E6B 100%);
+        -webkit-mask-image: url('/images/mask.png'), linear-gradient(rgba(0, 0, 0, 0.0), transparent);
+        mask-image: url('/images/mask.png'), linear-gradient(rgba(0, 0, 0, 0.0), transparent);
+
+
+        p {
+            color: white;
+            font-weight: 500;
+            font-size: 32px;
+            line-height: 36px;
+        }
     }
 }
