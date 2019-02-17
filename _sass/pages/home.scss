@@ -1,19 +1,31 @@
+/// <reference path="../common/breakpoints.scss" />
+/// <reference path="../common/colours.scss" />
+
 .home {
-    padding-top: 80px;
+    padding-top: 20px;
+
+    @include media-breakpoint-up(sm) {
+        padding-top: 80px;
+    }
 
     .hero {
         .main-text {
 
             h1 {
-                font-size: 44px;
-                line-height: 58px;
+                font-size: 32px;
+                line-height: 38px;
                 font-weight: 700;
                 margin-bottom: 0px;
+
+                @include media-breakpoint-up(sm) {
+                    font-size: 44px;
+                    line-height: 58px;
+                }
             }
 
             .subtext {
                 margin-top: 24px;
-                margin-bottom: 30px;
+                margin-bottom: 32px;
 
                 p {
                     font-size: 20px;
@@ -49,8 +61,14 @@
             z-index: 100;
             background: linear-gradient(180deg, rgba(0, 128, 221, 0.1) 0%, rgba(196, 196, 196, 0.5) 100%);
             border-radius: 17px;
-            padding-bottom: 200px;
-            margin-right: 20px;
+            margin-top: 32px;
+            padding-bottom: 100px;
+
+            @include media-breakpoint-up(sm) {
+                margin-top: 0px;
+                padding-bottom: 200px;
+                margin-right: 20px;
+            }
 
             h1 {
                 padding-top: 32px;
@@ -74,7 +92,11 @@
                     justify-content: center;
                     text-align: center;
                     min-width: 80px;
-                    height: 160px;
+                    height: 360px;
+
+                    @include media-breakpoint-up(sm) {
+                        height: 160px;
+                    }
 
                     .event-date {
                         font-weight: 300;
@@ -98,12 +120,16 @@
                 }
 
                 .event-details {
-                    padding-top: 8px;
+                    padding-top: 16px;
                     padding-left: 20px;
                     padding-right: 20px;
                     display: flex;
                     flex-direction: column;
                     justify-content: flex-start;
+
+                    @include media-breakpoint-up(sm) {
+                        padding-top: 8px;
+                    }
 
                     .event-name {
                         font-weight: 600;
@@ -140,16 +166,29 @@
 
     .nomadic {
         z-index: 1;
-        transform: translateY(-160px);
-        height: 680px;
-        padding-top: 200px;
-        background: radial-gradient(1000px at 0% 15%, $gradient-colour-from 0%, $gradient-colour-to 100%);
+        transform: translateY(-60px);
+        margin-bottom: -60px;
+        padding-top: 80px;
+        background: radial-gradient(400px at 0% 15%, $gradient-colour-from 0%, $gradient-colour-to 100%);
         -webkit-mask-image: url('/images/mask.png'), linear-gradient(rgba(0, 0, 0, 0.0), transparent);
         mask-image: url('/images/mask.png'), linear-gradient(rgba(0, 0, 0, 0.0), transparent);
+        -webkit-mask-repeat: no-repeat;
 
+        @include media-breakpoint-up(sm) {
+            transform: translateY(-160px);
+            margin-bottom: -160px;
+            height: 680px;
+            padding-top: 200px;
+            background: radial-gradient(1000px at 0% 15%, $gradient-colour-from 0%, $gradient-colour-to 100%);
+            -webkit-mask-image: url('/images/mask-big.png'), linear-gradient(rgba(0, 0, 0, 0.0), transparent);
+            mask-image: url('/images/mask.png-big'), linear-gradient(rgba(0, 0, 0, 0.0), transparent);
+        }
 
         .devices {
-            transform: translateY(-100px);
+
+            @include media-breakpoint-up(sm) {
+                transform: translateY(-100px);
+            }
         }
 
         h1 {

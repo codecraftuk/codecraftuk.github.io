@@ -1,12 +1,22 @@
-$grey: #808080;
+/// <reference path="../common/breakpoints.scss" />
+/// <reference path="../common/colours.scss" />
 
 footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 80px;
     padding-bottom: 40px;
-    .twitter-links{
+    padding-top: 80px;
+
+
+    .twitter-links {
         padding-bottom: 8px
+    }
+
+    .footer-links-mobile {
+        padding-left: 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 }
