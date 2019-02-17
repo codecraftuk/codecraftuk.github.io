@@ -1,10 +1,10 @@
+// Common
+@import "common/colours";
+@import "common/typography";
+
 // Components
 @import "components/nav";
 @import "components/footer";
 
 // Pages
 @import "pages/home";
-
-body {
-    font-family: 'Source Sans Pro', sans-serif;
-}
