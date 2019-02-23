@@ -1,0 +1,19 @@
+/// <reference path="../common/breakpoints.scss" />
+/// <reference path="../common/colours.scss" />
+
+.blog {
+    .blog-post {
+        margin-top: 20px;
+
+        h1 {
+            font-size: 34px;
+            font-weight: 600;
+        }
+
+        .blog-post-date {
+            color: $dark-grey;
+            font-weight: 600;
+            padding-bottom: 8px;
+        }
+    }
+}
