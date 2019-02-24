@@ -3,8 +3,14 @@ layout: page
 title: Previous Events
 ---
 
-<ul class="post">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div class="previous-events">
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <span class="previous-events-date-month">{{ post.date | date: '%b' }}</span> 
+            <span class="previous-events-date-year">{{ post.date | date: '%Y' }}</span>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

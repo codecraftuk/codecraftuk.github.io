@@ -2,7 +2,23 @@
 /// <reference path="../common/colours.scss" />
 
 .previous-events {
-    .previous-events-list {
-        margin-top: 20px;
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+
+        li {
+            .previous-events-date-month {
+                width: 36px;
+                display: inline-block;
+                text-align: center;
+            }
+
+            .previous-events-date-year {
+                display: inline-block;
+                margin-right: 16px;
+            }
+
+            padding-bottom: 4px;
+        }
     }
 }
