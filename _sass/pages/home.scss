@@ -87,6 +87,15 @@
                 margin-right: 20px;
                 box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
 
+
+
+                .event-link {
+                    display: flex;
+                    flex-direction: row;
+                    color: $text-color;
+                    text-decoration: none;
+                }
+
                 .event-date-time {
                     color: white;
                     display: flex;
@@ -94,10 +103,10 @@
                     justify-content: center;
                     text-align: center;
                     min-width: 80px;
-                    height: 360px;
+                    min-height: 360px;
 
                     @include media-breakpoint-up(sm) {
-                        height: 160px;
+                        min-height: 160px;
                     }
 
                     .event-date {
@@ -153,13 +162,32 @@
                     .event-description {
                         font-weight: 400;
                         font-size: 15px;
+                        padding-top: 4px;
+
+                        p{
+                            margin-bottom: 4px;
+                        }
                     }
 
-                    .event-more-info-link {
-                        font-weight: 400;
-                        font-size: 15px;
-                        color: $blue;
-                        padding-top: 4px;
+                    code {
+                        font-size: 100%;
+                        color: $pink;
+                        word-break: break-word;
+                    }
+
+                    .event-link-button {
+                        text-transform: uppercase;
+                        color: white;
+                        border-radius: 32px;
+                        background: lighten($blue, 20%);
+                        padding: 4px;
+                        margin-top: 8px;
+                        font-size: 14px;
+                        line-height: 16px;
+                        display: block;
+                        width: 120px;
+                        text-align: center;
+                        margin-bottom: 12px;
                     }
                 }
             }
