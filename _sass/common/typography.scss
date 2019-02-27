@@ -4,6 +4,14 @@ h1, h2, h3, h4, h5, p {
     color: $text-color;
 }
 
+.page-title-text {
+    font-size: 36px;
+    
+    @include media-breakpoint-up(sm) {
+        font-size: 42px;
+    }
+}
+
 body {
     font-family: Montserrat, sans-serif;
 }

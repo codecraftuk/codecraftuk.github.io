@@ -7,7 +7,7 @@ nav {
     img {
         height: 28px;
     }
-    
+
     .navbar-brand {
         font-weight: 700;
         font-size: 24px;
@@ -18,18 +18,25 @@ nav {
         }
     }
 
-    .nav-link {
-        font-size: 16px;
-        font-weight: 600;
-        margin-left: 16px;
-        color: $dark-grey!important;
-
-        @include media-breakpoint-up(sm) {
-            margin-left: 48px;
+    .navbar-nav {
+        padding-top: 8px;
+        .nav-item {
+            text-align: right;
         }
 
-        &:hover {
-            color: $grey;
+        .nav-link {
+            font-size: 16px;
+            font-weight: 600;
+            margin-left: 16px;
+            color: $dark-grey !important;
+
+            @include media-breakpoint-up(sm) {
+                margin-left: 48px;
+            }
+
+            &:hover {
+                color: $grey;
+            }
         }
     }
 }

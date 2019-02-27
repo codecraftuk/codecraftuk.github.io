@@ -1,5 +1,5 @@
 ---
-layout: conf
+layout: page
 title: Programme
 ---
 

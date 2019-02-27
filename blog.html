@@ -4,12 +4,12 @@ layout: page
 ---
 
 <div class="blog">
+    {% for post in site.categories.blog %}
     <div class="blog-post">
-        {% for post in site.categories.blog %}
         <h1>{{post.title}}</h1>
         <div class="blog-post-date">{{ post.date | date_to_string }}</div>
         <div class="blog-post-excerpt">{{ post.content }}</div>
         <!--<div class="blog-post-link"><a href="{{ post.url }}">Read more...</a></div>-->
-        {% endfor %}
     </div>
+    {% endfor %}
 </div>

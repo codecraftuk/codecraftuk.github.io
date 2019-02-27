@@ -1,6 +1,6 @@
 ---
 title: Conference Handbook
-layout: conf
+layout: page
 ---
 
 # Idealogy

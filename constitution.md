@@ -1,6 +1,6 @@
 ---
 title: Code Craft Consitution
-layout: conf
+layout: page
 ---
 
 (adopted on 24/09/2014)
