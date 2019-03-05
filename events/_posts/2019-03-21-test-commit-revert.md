@@ -3,7 +3,7 @@ layout: post
 title: TEST && COMMIT || REVERT
 ---
 
-**[FREE TICKET REQUIRED!](https://www.eventbrite.com/publish?crumb=dabfde19b584ad&eid=58030995269)**
+**[FREE TICKET REQUIRED!](https://www.eventbrite.com/e/test-commit-revert-tickets-58030995269?ref=estw)**
 
 > "`test && commit || revert`. If the tests fail, then the code goes back to the state where the tests last passed" - Kent Beck
 
@@ -25,4 +25,4 @@ Optional background reading on TCR: [https://medium.com/@kentbeck_7670/test-comm
 * Date: Thursday 21st March 2019
 * Time: 6.00pm event start
 * Location: [Skyscanner, 155 St Vincent St, Glasgow G2 5NW](https://goo.gl/maps/9ggBd62krvv)
-* Tickets: [Free tickets on Eventbrite ](https://www.eventbrite.com/publish?crumb=dabfde19b584ad&eid=58030995269)
+* Tickets: [Free tickets on Eventbrite ](https://www.eventbrite.com/e/test-commit-revert-tickets-58030995269?ref=estw)
