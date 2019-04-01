@@ -14,7 +14,7 @@ So let's talk about practical stepping stones that can help along the way to tec
 It doesn't matter if you're new to the industry, or whether your're experienced, you may be able to ask just the right questions to unlock key insights for others, whilst listening in and learning for yourself. We'll explain the format ([Guided Conversations](http://guidedconversations.org/)), and make sure everyone keeps up with the discussion.
 
 * Details: Technical Excellence: A Guided Conversation
-* Date - Thursday 18th April 2018
+* Date - Thursday 18th April 2019
 * Time - Doors at 6.00pm, for a start around 6.30pm
 * Location: [Morgan Stanley, 122 Waterloo Street, Glasgow, UK, G2 7DP](https://goo.gl/maps/p7KrDZUZVz82)
 * Tickets: [Free tickets on Eventbrite](https://www.eventbrite.com/e/technical-excellence-a-guided-conversation-tickets-59722565802)
