@@ -21,3 +21,5 @@ Rather than us dictate a topic, bring along whatever questions you want answered
 It doesn't matter whether you're new to the industry or experienced, whether you want to ask a question about starting in IT or the ethics behind AI trade-offs, there'll be the opportunity to engage with your peers on anything you like.
 
 It doesn't matter if you don't have a topic, you may be able to provide valuable perspective for others, or learn something new by just listening. It also doesn't matter if you don't know the Lean Coffee format, it's simple and we'll take the time to explain it before we get started.
+
+**<a href="https://www.eventbrite.com/e/lean-coffee-with-codecraft-tickets-61336140046" target="_blank">GET YOUR FREE TICKET HERE!</a>**
