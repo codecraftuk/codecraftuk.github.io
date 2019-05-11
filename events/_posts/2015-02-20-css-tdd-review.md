@@ -3,7 +3,7 @@ layout: post
 title: CSS TDD - Review
 ---
 
-On the 19th February 2015 we tried using the Quixote library to test drive the creation of a website, as part of our [CSS TDD event]({% post_url 2015-02-01-css-tdd %}). 
+On the 19th February 2015 we tried using the Quixote library to test drive the creation of a website, as part of our [CSS TDD event]({% post_url events/2015-02-01-css-tdd %}). 
 
 We had around 14 attendees on the night who didn't have much experience with CSS as they were mainly backend developers. Half of the attendees had used npm before, which we used as a way to pair people together. The feeling in the room at the start was energetic but sceptical.
 
