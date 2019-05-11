@@ -9,7 +9,7 @@ layout: page
         <h1>{{post.title}}</h1>
         <div class="blog-post-date">{{ post.date | date_to_string }}</div>
         <div class="blog-post-excerpt">{{ post.content }}</div>
-        <!--<div class="blog-post-link"><a href="{{ post.url }}">Read more...</a></div>-->
+        <div class="blog-post-link"><a href="{{ post.url }}">Direct link...</a></div>
     </div>
     {% endfor %}
 </div>
