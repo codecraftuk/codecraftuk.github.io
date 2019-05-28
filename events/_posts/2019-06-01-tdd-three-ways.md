@@ -3,7 +3,7 @@ layout: post
 title: "TDD Three Ways"
 description: For our June event, we’re trying three different Pair Programming and TDD styles. 6pm, Thursday 20th June 2019, at Incremental Group.
 ---
-[Tickets Here!](https://www.eventbrite.com/o/codecraft-17411376408)
+[Tickets Here!](https://www.eventbrite.com/e/tdd-in-three-different-ways-tickets-62520884649)
 
 Date  | **Thursday 20th June 2019**
 Time | **6:00 pm for 6:30pm start. 9pm finish**
