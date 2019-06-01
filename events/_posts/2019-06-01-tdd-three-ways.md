@@ -14,8 +14,8 @@ Location &nbsp; | **<a href="https://goo.gl/maps/2We2Q7uUeAGWCxQW6" target="_bla
 For our June event we’re trying three different styles of pair programming using TDD.
 
 <!---
- * Ping Pong 
- * Silent 
+ * Ping Pong
+ * Silent
  * Beginners Mind
 -->
 
@@ -24,6 +24,8 @@ We’ll try each style for 30/40 minutes then share what we learned at the end.
 Don’t worry if you’ve never pair programmed or done TDD before. We’ll be pairing people up to make sure every pair has at least one person who’s done both.
 
 Please bring your laptops!
+
+[FREE TICKET REQUIRED!](https://www.eventbrite.com/e/tdd-in-three-different-ways-tickets-62520884649)
 
 <!---
 ## Ping Pong
@@ -41,8 +43,8 @@ More info: [Ping Pong Pattern](http://wiki.c2.com/?PairProgrammingPingPongPatter
 ## Silent
 
 In pairs:
- * You are not allowed to talk. 
- * All the communication is made through code. 
+ * You are not allowed to talk.
+ * All the communication is made through code.
  * You are not allowed to use paper or write comments in the code or other files.
  * Set a three minute timer and switch every three minutes.
 
@@ -92,6 +94,3 @@ Use your favourite lanaguge/tool/framework to build the app or build it online u
 
 Have fun!
 -->
-
-
-
