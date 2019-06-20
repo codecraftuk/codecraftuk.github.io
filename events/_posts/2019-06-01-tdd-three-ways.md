@@ -11,6 +11,8 @@ Location &nbsp; | **<a href="https://goo.gl/maps/2We2Q7uUeAGWCxQW6" target="_bla
 
 <br/>
 
+** For tonight’s event please use the side door as the main door will be shut. Once inside head up to the 5th floor.** 
+
 For our June event we’re trying three different styles of pair programming using TDD.
 
  * Ping Pong
