@@ -13,11 +13,9 @@ Location &nbsp; | **<a href="https://goo.gl/maps/2We2Q7uUeAGWCxQW6" target="_bla
 
 For our June event we’re trying three different styles of pair programming using TDD.
 
-<!---
  * Ping Pong
  * Silent
  * Beginners Mind
--->
 
 We’ll try each style for 30/40 minutes then share what we learned at the end.
 
@@ -27,7 +25,6 @@ Please bring your laptops!
 
 [FREE TICKET REQUIRED!](https://www.eventbrite.com/e/tdd-in-three-different-ways-tickets-62520884649)
 
-<!---
 ## Ping Pong
 
 In pairs:
@@ -93,4 +90,4 @@ For simplicity, don't worry about error cases (what if deposit amount is negativ
 Use your favourite lanaguge/tool/framework to build the app or build it online using [codesandbox.com](https://codesandbox.io/s/9349xjlnl4).
 
 Have fun!
--->
+
