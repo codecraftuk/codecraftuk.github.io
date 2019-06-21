@@ -75,7 +75,7 @@ Please implement the following features:
 
 3. User can make a withdraw from the account.
   A withdrawl is the same as deposit except it has:
-   - transaction type of 'withdrawl'<br/>
+   - transaction type of 'withdrawl' <br/>
 
 4. Account can have an overdraft. If user goes over the overdraft they are fined £10. The transaction type is 'fine'.
 
