@@ -10,7 +10,6 @@ CodeCraft is an event intended for education, networking, and community. To ensu
 If you experience any issues during a CodeCraft event please use one of the following means to get in touch.
 
 - send an email to <a href="mailto:coc@codecraftuk.org?Subject=CoC">coc@codecraftuk.org</a>
-- Call or SMS the team on 07740 199135
 - Tweet to [@codecraftuk](https://twitter.com/codecraftuk)
 
 If you email or tweet, the code of conduct team are:
