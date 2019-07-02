@@ -4,9 +4,9 @@ title: "Fintech: A Guided Conversation"
 description: For our July event, we have partnered up with the Scottish Fintech Comunity to discuss both the Fin and the Tech of the industry.
 ---
 [Tickets Here!](https://www.eventbrite.com/e/fintech-a-guided-conversation-tickets-64634968932)
-
-Date | **Thursday 18th July 2019**
-Time | **6:00 pm for 6:30pm start. 9pm finish**
+<br>
+Date | **Thursday 18th July 2019** <br>
+Time | **6:00 pm for 6:30pm start. 9pm finish**<br>
 Location &nbsp; | **<a href="https://goo.gl/maps/jzQPVkpqRx7YkgPv8" target="_blank">1st Floor Spectrum Building, 55 Blythswood St, Glasgow G2 7AT
 </a>**
 
