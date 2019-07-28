@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Tickets"
-description: Why we switched from Diversity Tickets to Community Tickets.
+description: Why we have switched from using "Diversity Tickets" to using "Community Tickets".
 ---
 
 CodeCraft’s ethos is that everything we do, including meetups and conferences, should reflect the members of the tech community, which in reality, encompasses people from different walks of life, experience, nationality, age, colour, sexuality, and gender.
