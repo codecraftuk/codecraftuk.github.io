@@ -8,9 +8,8 @@ description: For our October event, we are runing an Open Space.
 <br>
 Date | **Thursday 17th October 2019** <br>
 Time | **6:00 pm for 6:30pm start. 9pm finish**<br>
-<!-- Location &nbsp; | **<a href="https://goo.gl/maps/r7y2gDwcC6u" target="_blank">FanDuel Glasgow, 2 West Regent Street, Glasgow G2 1RW -->
-Location: To be announced
-<!-- </a>** -->
+Location &nbsp; | **<a href="https://goo.gl/maps/2We2Q7uUeAGWCxQW6" target="_blank">Incremental Group, 5th Floor, The Garment Factory, 10 Montrose St, Glasgow G1 1RE</a>
+
 
 We’re trialling a different format for this month’s event: open-spacing it! In other words, we are inviting you to come with:
 
