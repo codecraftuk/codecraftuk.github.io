@@ -3,7 +3,7 @@ layout: post
 title: "Open Space"
 description: For our October event, we are runing an Open Space.
 ---
-<!-- [Tickets Here!](https://www.eventbrite.com/e/mentoring-a-guided-conversation-tickets-66814061657) -->
+[Tickets Here!](https://www.eventbrite.com/e/open-space-tickets-75921105069)
 
 <br>
 Date | **Thursday 17th October 2019** <br>
@@ -23,4 +23,4 @@ We’re trialling a different format for this month’s event: open-spacing it! 
 The actual topics will be decided on the day: we will start with a marketplace for people to share their ideas and organise ourselves around the topics of interest.
 
 
-<!-- **<a href="https://www.eventbrite.com/e/mentoring-a-guided-conversation-tickets-66814061657" target="_blank">GET YOUR FREE TICKET HERE </a>** -->
+<a href="https://www.eventbrite.com/e/open-space-tickets-75921105069" target="_blank">GET YOUR FREE TICKET HERE </a>
