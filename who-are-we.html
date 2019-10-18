@@ -1,0 +1,88 @@
+---
+layout: default
+title: Who are we?
+---
+
+<div class="who-are-we pb-2 pt-4">
+
+    <div class="hero">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1>Who are we?</h1>
+                    <p>CodeCraft is run by volunteers from a mix of backgrounds.</p>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-12">
+                    <h2>Our Organisers</h2>
+                </div>
+            </div>
+            <div class="row">
+                {% for orginiser in site.organisers %}
+                    <div class="col-12 col-md-4 pb-3">
+                        <div class="card">
+                            <div class="box">
+                                <div class="img">
+                                    <img src="{{ orginiser.image }}">
+                                </div>
+                                <h2>
+                                    {{ orginiser.name }}
+                                    <!-- <br>
+                                    <span>Software Consutant</span> -->
+                                </h2>
+                                <p>{{ orginiser.content | markdownify }}</p>
+                                <span>
+                                    <ul>
+                                        <li>
+                                            <a href="{{ orginiser.twitter }}" target="_blank" >
+                                                <i class="fab fa-twitter" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="row pt-4">
+                <div class="col-12 col-md-8">
+                    <h2>Our Ambassadors</h2>
+                    <p>Our ambasidor help us promote code craft, improve our diversity and explain the benefits
+                        of attending code craft events to people who havent been</p>
+                    <p>If you'd like to be an ambassadors please get in touch.</p>
+                </div>
+            </div>
+            <div class="row">
+                {% for ambassadors in site.ambassadors %}
+                    <div class="col-12 col-md-4 pb-3">
+                        <div class="card">
+                            <div class="box">
+                                <div class="img">
+                                    <img src="{{ orginiser.image }}">
+                                </div>
+                                <h2>
+                                    {{ ambassadors.name }}
+                                    <!-- <br>
+                                    <span>Software Consutant</span> -->
+                                </h2>
+                                <p>{{ ambassadors.content | markdownify }}</p>
+                                <span>
+                                    <ul>
+                                        <li>
+                                            <a href="{{ ambassadors.twitter }}" target="_blank" >
+                                                <i class="fab fa-twitter" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</div>
