@@ -5,7 +5,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
 
 highligher: true
-permalink: /events/:year/:month/:title
+permalink: /:categories/:year/:month/:title
 gems:
   - jekyll-redirect-from
 
