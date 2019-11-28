@@ -4,7 +4,7 @@ title: "Logos and Venues"
 description: Our venue policy and logo changed in the last few months. Find out why.
 ---
 
-A year and a half ago, we [talked about changing our tagline from "craftsmanship" to "crafting"](https://www.codecraftuk.org/events/2017/11/craftsmanship-to-crafters), and since then we've made some more changes.
+A year and a half ago, we [talked about changing our tagline from "craftsmanship" to "crafting"](https://www.codecraftuk.org/blog/2017/11/craftsmanship-to-crafters), and since then we've made some more changes.
 
 CodeCraft was founded in a pub. Our founders, Joe and Gary, would meet in various pubs around Glasgow to argue about technical matters. They both enjoyed craft beer, so when they formalised the meet-up and opened it for other people, the venues were always pubs that had craft beer. CodeCraft, as a name, was a play on words, taking from "craft beer" and "software crafting".
 
