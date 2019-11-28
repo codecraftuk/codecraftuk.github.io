@@ -3,6 +3,7 @@ layout: podcast
 title: "Confidence with Kevin McDermott"
 description: "Ewa Grabowiecka and Joe Wright kick off talking about interview questions and what impact 5G will have on Scotland. Our guest is Kevin McDermott, who discusses his career working remotely and techniques he has found for increasing confidence."
 categories: ['podcast_season_one']
+season: 'S1'
 number: 'E5'
 ---
 

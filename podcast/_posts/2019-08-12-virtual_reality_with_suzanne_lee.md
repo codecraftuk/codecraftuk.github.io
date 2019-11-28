@@ -3,6 +3,7 @@ layout: podcast
 title: "Virtual Reality with Suzanne Lee"
 description: "Suzanne Lee takes Ewa Grabowiecka and Joe Wright into the world of virtual reality. We chat about using VR in healthcare to help with anxiety and dementia and Suzanne gives her tips on how to chase your passion."
 categories: ['podcast_season_one']
+season: 'S1'
 number: 'E3'
 ---
 

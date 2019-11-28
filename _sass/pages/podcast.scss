@@ -1,0 +1,50 @@
+/// <reference path="../common/breakpoints.scss" />
+/// <reference path="../common/colours.scss" />
+
+.podcast {
+    .podcast-post {
+        margin-top: 16px;
+        padding-bottom: 28px;
+        margin-bottom: 40px;
+        border-bottom: 1px solid $pink;
+
+        h1 {
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        .podcast-post-date {
+            color: $dark-grey;
+            font-weight: 600;
+            padding-bottom: 8px;
+        }
+    }
+
+    .postcase-season {
+        text-transform: uppercase;
+        font-size: 12px;
+        opacity: 0.7;
+        letter-spacing: 0.5px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+
+    .podcast-host-list {
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .podcast-host {
+        margin-right: 10px;
+        padding: 10px 15px;
+        font-size: 1em;
+        border-radius: 5px;
+        color: rgba(0,0,0,0.8);
+        background-color: rgba(230,230,230,1);
+        border: 1px solid rgba(0,0,0,0.05);
+
+        img {
+            margin-right: 0.5em;
+        }
+    }
+}

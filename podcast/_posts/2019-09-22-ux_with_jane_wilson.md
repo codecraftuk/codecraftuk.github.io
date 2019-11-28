@@ -3,6 +3,7 @@ layout: podcast
 title: "UX with Jane Wilson"
 description: "Jane Wilson joins Ewa Grabowiecka and Joe Wright in the studio to discuss the last ten years of UX in development teams. How has analytics changed UX, is it required to make our websites accessible and what the future might hold for UX?"
 categories: ['podcast_season_one']
+season: 'S1'
 number: 'E4'
 ---
 
