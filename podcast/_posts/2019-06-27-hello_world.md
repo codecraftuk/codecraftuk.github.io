@@ -2,7 +2,7 @@
 layout: podcast
 title: "Hello World"
 description: "Ewa Grabowiecka and Joe Wright introduce the podcast and talk about the jobs situation in Scottish tech. The main topic is about CodeCraft's history, how it works and where the meetup is heading in the future."
-categories: ['podcast_season_one']
+categories: ['season_one']
 season: 'S1'
 number: 'E1'
 ---
