@@ -6,7 +6,7 @@ description: Want to get better at Pair Programming? Let us help you communicate
 
 Date | **Thursday 16th January 2020** <br>
 Time | **6:00 pm for 6:30pm start. 8.30pm finish**<br>
-Location &nbsp; | TBC (Glasgow city centre)
+Location &nbsp; | SAS, 480 Argyle Street, Glasgow, G2 8NH
 
 <a href="https://www.eventbrite.com/e/codecraft-better-pairing-through-better-communication-tickets-88656099781" target="_blank"><span class="event-ticket-button">Free ticket required!</span></a>
 
