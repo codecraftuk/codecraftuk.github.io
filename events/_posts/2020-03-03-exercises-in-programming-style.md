@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exercises in Programming Style"
-description: For our March event, we're going to be looking at how constraints influence code design. 6:00pm, Thursday 19th March, Location to be confirmed.
+description: For our March event, we're going to be looking at how constraints influence code design. 6:00pm, Thursday 19th March, Location TBA (Glasgow city centre).
 ---
 ## ** PLEASE NOTE A TICKET IS REQUIRED **
 
@@ -20,5 +20,5 @@ Everybody welcome, beginners and experienced coders alike, there's no need to re
 * Details – Exercises in Programming Style
 * Date - Thursday 19th March
 * Time - 6:00pm doors, for start shortly after
-* Location – **TO BE CONFIRMED**
+* Location – **TBA (Glasgow city centre)**
 * Tickets - [Get Tickets Here](TODO)
