@@ -15,6 +15,8 @@ Based on the book [Exercises in Programming Style](https://www.crcpress.com/Exer
 
 Everybody welcome, beginners and experienced coders alike, there's no need to read the book in advance.
 
+**Please bring your laptops!**
+
 * Details – Exercises in Programming Style
 * Date - Thursday 19th March
 * Time - 6:00pm doors, for start shortly after
