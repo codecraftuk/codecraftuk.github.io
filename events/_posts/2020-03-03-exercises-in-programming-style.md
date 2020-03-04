@@ -5,7 +5,7 @@ description: For our March event, we're going to be looking at how constraints i
 ---
 ## ** PLEASE NOTE A TICKET IS REQUIRED **
 
-[Get Tickets Here](TODO)
+[Get Tickets Here](https://www.eventbrite.com/e/codecraft-exercises-in-programming-style-tickets-98171237815)
 
 For our March event, we'll be looking at how simple constraints shape the code we write.
 
@@ -21,4 +21,4 @@ Everybody welcome, beginners and experienced coders alike, there's no need to re
 * Date - Thursday 19th March
 * Time - 6:00pm doors, for start shortly after
 * Location – **TBA (Glasgow city centre)**
-* Tickets - [Get Tickets Here](TODO)
+* Tickets - [Get Tickets Here](https://www.eventbrite.com/e/codecraft-exercises-in-programming-style-tickets-98171237815)
