@@ -8,9 +8,6 @@ Our now annual tradition of getting together and discussing books has continued 
 
 Due to various reason (including the horrendous weather), it was a considerably quieter event than in previous years, but that let us get deeper into conversation around each topic.
 
-For the second year in the row, we kick started our year with a book club event in which everyone brought in their favorite text/audio and discussed it. What was really interesting is that there were more podcasts than books this year, but technical books still held strongly.
-
-We have composed a list of worthy entries (as deemed by the January attendees) for anyone's 2019 reading/listening resolutions.  The entries are as follows, in no particular order:   
 
 #### Books
 
