@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote Working: A Guided Conversation"
-description: For our March event, we're going to have a Guided Conversation about Remote Working. 6.30pm, Thursday 18th April, online.
+description: For our March event, we're going to have a Guided Conversation about Remote Working. 6.30pm, Thursday 19th of March, online.
 ---
 For our March event, we'll be looking at hosting an online guided conversation about Remote Working. 
 
