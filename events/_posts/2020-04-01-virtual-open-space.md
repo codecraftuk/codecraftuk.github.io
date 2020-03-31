@@ -4,8 +4,8 @@ title: "Virtual Open Space"
 description: For our April event, we are running a Virtual Open Space.
 ---
 
-Date | **Thursday 19th October 2029** <br>
-Time | **6:30 pm to 8:30pm**<br>
+Date | **Thursday 16th April 2020** <br>
+Time | **6:30 pm to 9:00pm**<br>
 Location &nbsp; | We will publish a URL nearer the time
 
 Following on from last months remote meetup. We are running another online-only event based around the [Open Space format](https://en.wikipedia.org/wiki/Open_Space_Technology)
