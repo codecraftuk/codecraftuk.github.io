@@ -6,7 +6,7 @@ description: For our April event, we are running a Virtual Open Space.
 
 Date | **Thursday 16th April 2020** <br>
 Time | **6:30 pm to 9:00pm**<br>
-Location &nbsp; | <a href="https://hex.whereby.com/lobby" target="_blank"><span class="event-ticket-button">Join the session now</span></a>
+Location &nbsp; | <a href="https://hex.whereby.com/lobby" target="_blank">https://hex.whereby.com/lobby</a>
 
 Following on from last months remote meetup. We are running another online-only event based around the [Open Space format](https://en.wikipedia.org/wiki/Open_Space_Technology)
 
