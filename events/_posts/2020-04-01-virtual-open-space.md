@@ -21,6 +21,6 @@ The agenda will be built on the day by whoever turns up. The sort of topics we'd
 
 We'll start the meetup with a marketplace for people to share their ideas and organise ourselves around the topics of interest.
 
-<a href="https://hex.whereby.com/lobby" target="_blank"><span class="event-ticket-button">Join the session now</span></a>
+<a href="https://hex.whereby.com/lobby" target="_blank"><span class="event-ticket-button">Join the call</span></a>
 
-<!-- <a href="https://docs.google.com/spreadsheets/d/1iIatB1GZfaqVKDWDv7L9txX9BxSeCJUzpl65beEWToI/edit#gid=911830508" target="_blank"><span class="event-ticket-button">See the schedule</span></a> -->
+<a href="https://docs.google.com/spreadsheets/d/1iIatB1GZfaqVKDWDv7L9txX9BxSeCJUzpl65beEWToI/edit#gid=911830508" target="_blank">See the schedule!</a>
