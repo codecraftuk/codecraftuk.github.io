@@ -6,7 +6,7 @@ description: For our May event, we are running a session on Programming Styles.
 
 Date | **Thursday 21st May 2020** <br>
 Time | **7:00 pm to 9:00pm**<br>
-Location &nbsp; | **TO BE CONFIRMED**
+Location &nbsp; | Online
 
 As we're likely to still be in lockdown, we are running another online-only event based around the book [Exercises in Programming Style](https://www.routledge.com/Exercises-in-Programming-Style/Lopes/p/book/9781482227376).
 
