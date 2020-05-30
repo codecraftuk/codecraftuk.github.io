@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TDD is my shame" - an interactive talk!.
+title: "TDD is my shame - an interactive talk!"
 description: I don't do as much Test-Driven Development as I should; it's my shame. Let's do something about it.
 ---
 
