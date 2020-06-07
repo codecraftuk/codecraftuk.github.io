@@ -26,3 +26,4 @@ Black lives matter. And until they do, not all lives matter.
 * [Black British Profesionals in STEM](https://bbstem.co.uk/)
 * [10 Books About Race To Read Instead Of Asking A Person Of Color To Explain Things To You](https://www.bustle.com/p/10-books-about-race-to-read-instead-of-asking-a-person-of-color-to-explain-things-to-you-8548796)
 * [Document with anti-racism resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcpniS3c*zrbvUTeZfwHrfdN-VXRjxg)
+* [Pass the mic initiative](https://passthemicscotland.wordpress.com/)
