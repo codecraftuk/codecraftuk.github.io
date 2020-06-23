@@ -14,7 +14,7 @@ description: "Notes and reading suggestions from the TDD is My Shame talk."
 * ["All The Little Things"](https://www.youtube.com/watch?v=8bZh5LMaSmE) - a great conference talk by, again, Sandi Metz where you see her refactoring a legacy codebase using tests.
 * ["Testing Strategies in a Microservice Architecture"](https://martinfowler.com/articles/microservice-testing/) by [Toby Clemson](https://github.com/tobyclemson) - a slide deck covering how to define tests with your team.
 * [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html) - Google testing blog post on how to define tests by size.
-* [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) by [Kent Beck](https://twitter.com/KentBeck) - a bold new approach to test-driven code, sometimes called TCR, where if the tests pass when you run then, you automatically commit. If they fail, you revert any changes.
+* [test && commit \|\| revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) by [Kent Beck](https://twitter.com/KentBeck) - a bold new approach to test-driven code, sometimes called TCR, where if the tests pass when you run then, you automatically commit. If they fail, you revert any changes.
 * [Roman Numerals Kata in TCR](https://github.com/joejag/tcr_roman_numerals/commits/master) - [Joe Wright](https://twitter.com/joe_jag) provides an example repo for a kata that was performed in a TCR style.
 * [Global Day of Coderetreat](https://www.coderetreat.org/) - a global event where people in cities around the world deliberately pratice using fundamental design principles, like TDD.
 
