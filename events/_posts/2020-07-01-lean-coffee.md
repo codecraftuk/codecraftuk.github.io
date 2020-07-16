@@ -10,7 +10,7 @@ description: Got questions you want answered? Problems to chat about? Topics to 
 
 Date  | **Thursday 16th July 2020**
 Time | **7.00pm event start**
-Location &nbsp; | Zoom! (Details soon)
+Location &nbsp; | Zoom! [Join us via Zoom](https://us02web.zoom.us/j/87011133455?pwd=UkVSSTEwRFRjeXlEbnNPTWFHdGNVZz09).
 
 <hr>
 
