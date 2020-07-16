@@ -11,6 +11,7 @@ description: Got questions you want answered? Problems to chat about? Topics to 
 Date  | **Thursday 16th July 2020**
 Time | **7.00pm event start**
 Location &nbsp; | Zoom! [Join us via Zoom](https://us02web.zoom.us/j/87011133455?pwd=UkVSSTEwRFRjeXlEbnNPTWFHdGNVZz09).
+Lean Coffee Board | [Add your topics to the Lean Coffee board](https://www.leancoffeetable.com/TaskBoard/View/9520a711-6b26-467c-9f8e-f6b2674a273c?guest=true)
 
 <hr>
 
