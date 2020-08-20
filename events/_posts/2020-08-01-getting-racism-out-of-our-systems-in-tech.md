@@ -8,7 +8,7 @@ description: You'd like to do something about racism in tech, and not sure where
 
 Date  | **Thursday 20th August 2020**
 Time | **7.00pm event start**
-Location &nbsp; | Zoom! [Join us via Zoom](TBC).
+Location &nbsp; | Zoom! [Join us via Zoom](https://us02web.zoom.us/j/84104659699?pwd=SzRmclZYU3JNYUtrQ1Vid0p6ZTRoZz09).
 
 <hr>
 
