@@ -9,7 +9,7 @@ description: This month we will be mobbing a kata. Online. Come join us !
 Date  | **Thursday 17th September 2020**
 Time | **7.00pm event start**
 Location &nbsp; | Zoom! - link tbc 
-Tickets | [EventBrite](https://www.eventbrite.co.uk/e/mob-programming-the-power-of-refactoring-as-a-team-tickets-43794844559)
+Tickets | [EventBrite](https://www.eventbrite.com/e/mobbing-a-coding-kata-tickets-118985539953)
 
 <hr>
 
