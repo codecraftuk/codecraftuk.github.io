@@ -8,7 +8,7 @@ description: This month we will be mobbing a kata. Online. Come join us !
 
 Date  | **Thursday 17th September 2020**
 Time | **7.00pm event start**
-Location &nbsp; | Zoom! - link tbc 
+Location &nbsp; | Zoom! [Join us via Zoom](https://us02web.zoom.us/j/83159567368?pwd=Skdpc1RTdG4zR1ZqRDhaSVZOcFczQT09).
 Tickets | [EventBrite](https://www.eventbrite.com/e/mobbing-a-coding-kata-tickets-118985539953)
 
 <hr>
