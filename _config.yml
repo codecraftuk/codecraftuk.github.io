@@ -6,7 +6,7 @@ redcarpet:
 
 highligher: true
 permalink: /:categories/:year/:month/:title
-gems:
+plugins:
   - jekyll-redirect-from
 
 
