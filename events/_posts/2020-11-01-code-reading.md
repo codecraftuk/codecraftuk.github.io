@@ -8,7 +8,7 @@ Date | **Thursday 19th November 2020** <br>
 Time | **7:00pm to 9:00pm**<br>
 Location &nbsp; | Zoom Link will be published the day before the event
 
-[Get Tickets Here](https://www.eventbrite.com/)
+[Get Tickets Here](https://www.eventbrite.com/e/codecraft-code-reading-tickets-127538690657)
 
 How often have you had to read an unfamiliar codebase?
 
@@ -22,3 +22,5 @@ understanding how the internals of code we use is written.
 
 Doing this will help you see how other folks write code, help you pick up a
 project faster, debug issues in dependencies, and improve the code you write.
+
+[Get Tickets Here](https://www.eventbrite.com/e/codecraft-code-reading-tickets-127538690657)
