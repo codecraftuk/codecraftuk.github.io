@@ -6,7 +6,7 @@ description: Become a better developer by reading other people's code.
 
 Date | **Thursday 19th November 2020** <br>
 Time | **7:00pm to 9:00pm**<br>
-Location &nbsp; | Zoom Link will be published the day before the event
+Location &nbsp; | [Zoom Link](https://us02web.zoom.us/j/84244708593?pwd=blVyanA5em5qemtCcjFmZDRxMWlwdz09)
 
 [Get Tickets Here](https://www.eventbrite.com/e/codecraft-code-reading-tickets-127538690657)
 
