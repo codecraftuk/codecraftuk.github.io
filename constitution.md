@@ -23,7 +23,7 @@ layout: page
 
 2)	The association’s objects are:
 
-(a) to facilitate and encourage the continuous education, networking and meeting of  individuals, groups or companies working in the Information Technology sector by providing or helping others provide suitable facilities or events. 
+(a) to facilitate and encourage the continuous education, networking and meeting of  individuals, groups or companies working in the Information Technology sector by providing or helping others provide suitable facilities or events.
 
 (b) to facilitate and encourage projects in the Information Technology sector to start, continue or finish by providing or helping others provide suitable facilities or events for discussion, planning, presentations or networking to find team members for such projects.
 
@@ -165,7 +165,7 @@ layout: page
 
 33)	A member of the management committee shall automatically vacate office if:-
 
-(a)	he/she becomes debarred under any statutory provision from being a charity trustee 
+(a)	he/she becomes debarred under any statutory provision from being a charity trustee
 
 (b)	he/she becomes incapable for medical reasons of fulfilling the duties of his/her office and such incapacity is expected to continue for a period of more than six months
 
@@ -201,7 +201,7 @@ layout: page
 
 41)	For the purposes of clause 40, a person shall be deemed to have a personal interest in an arrangement if any partner or other close relative of his/hers or any firm of which he/she is a partner or any limited company of which he/she is a substantial shareholder or director, has a personal interest in that arrangement.
 
-42)	Provided 
+42)	Provided
 
 (a) he/she has declared his/her interest
 
@@ -210,9 +210,9 @@ layout: page
 (c) the requirements of clause 44 are complied with,
 a member of the management committee will not be debarred from entering into an arrangement with the association in which he/she has a personal interest (or is deemed to have a personal interest under clause 41) and may retain any personal benefit which he/she gains from his/her participation in that arrangement.
 
-43)	No member of the management committee may serve as an employee (full time or part time) of the association, and no member of the management committee may be given any remuneration by the association for carrying out his/her duties as a member of the management committee. 
+43)	No member of the management committee may serve as an employee (full time or part time) of the association, and no member of the management committee may be given any remuneration by the association for carrying out his/her duties as a member of the management committee.
 
-44)	Where a management committee member provides services to the association or might benefit from any remuneration paid to a connected party for such services, then 
+44)	Where a management committee member provides services to the association or might benefit from any remuneration paid to a connected party for such services, then
 
 (a)	the maximum amount of the remuneration must be specified in a written agreement and must be reasonable
 
@@ -242,7 +242,7 @@ a member of the management committee will not be debarred from entering into an 
 
 ### Conduct of members of the management committee
 
-54)	Each of the members of the management committee shall, in exercising his/her functions as a member of the management committee of the association, act in the interests of the association; and, in particular, must 
+54)	Each of the members of the management committee shall, in exercising his/her functions as a member of the management committee of the association, act in the interests of the association; and, in particular, must
 
 (a)	seek, in good faith, to ensure that the association acts in a manner which is in accordance with its objects (as set out in this constitution)
 
@@ -300,7 +300,7 @@ a member of the management committee will not be debarred from entering into an 
 
 ### Interpretation
 
-69)	For the purposes of this constitution, 
+69)	For the purposes of this constitution,
 
 (a) the expression “charity” shall mean a body which is either a “Scottish charity” within the meaning of section 13 of the Charities and Trustee Investment (Scotland) Act 2005 or a “charity” within the meaning of section 96 of the Charities Act 1993
 
@@ -313,6 +313,7 @@ a member of the management committee will not be debarred from entering into an 
 71)	The initial members of the management committee, and the positions held by each, shall be as set out below.
 
 This constitution was adopted on 24/09/2014
+It was last updated at the AGM on 01/12/2020
 
 Signature
 Name
@@ -320,13 +321,19 @@ Address
 Position
 
 
-Keith Harrison - 
+Gary Fleming -
 Secretary
 
 
-Gary Fleming - 
+Ewa Grabowiecka -
 Chair
 
 
-Joe Wright - 
+Joe Wright -
 Treasurer
+
+Kevin McDermott -
+Member
+
+Amélie Cornélis -
+Member
