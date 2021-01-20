@@ -7,7 +7,7 @@ image: bring-a-book.jpg
 
 Date | **Thursday 21st January 2021** <br>
 Time | **7:00pm to 9:00pm**<br>
-Location &nbsp; | Zoom Link To Follow (sign-up for event)
+Location &nbsp; | [Zoom Link](https://zoom.us/j/99013069414?pwd=aHJVQVpEWmJ2N2I1UkdKcFNYeWFCUT09)
 
 [Get Tickets Here](https://www.eventbrite.com/e/codecraft-bring-a-book-tickets-135909776801)
 
