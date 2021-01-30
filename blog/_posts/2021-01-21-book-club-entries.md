@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "CodeCraft Book Club 2021 Entries"
-description: "The books people brought to CodeCraft Book Club 2021"
+title: "CodeCraft Bring-A-Book 2021 Entries"
+description: "The books people brought to CodeCraft Bring-A-Book 2021"
 ---
 
-Our annual tradition of getting together and discussing books has continued into its fourth year! It's not a book club in the traditional sense. Instead, we invite attendees to bring a book (or blog post, podcast, other media) that has influenced them.
+Our annual tradition of getting together and discussing books has continued into its fourth year! It's not a book club in the traditional sense. Instead, we invite attendees to Bring-a-Book (or blog post, podcast, other media) that has influenced them.
 
 This year we ran online, and the number of people around meant it was good to discuss topics as a single group. The entries are as follows, in no particular order.
 
@@ -25,12 +25,12 @@ This year we ran online, and the number of people around meant it was good to di
 * "Essentialism: The Disciplined Pursuit of Less" by Greg McKeown
 * "Thinking in Systems: A Primer" by Donella H. Meadows, Diana Wright
 * "Extreme Programming Explained: Embrace Change" by Kent Beck, Cynthia Andres
-* "Escaping the Build Trap: How Effective Product Management Creates Real Value" by Melissa Perr
-* Life in Code: A Personal History of Technology" by Ellen Ullman
+* "Escaping the Build Trap: How Effective Product Management Creates Real Value" by Melissa Perri
+* "Life in Code: A Personal History of Technology" by Ellen Ullman
 * "Alice and Bob learn Application Security" by Tanya Janca
 * "Technically Wrong, Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech" by Sara Wachter-Boettcher
 * "Invisible Women: Exposing Data Bias in a World Designed for Men" by Caroline Criado Perez
-* You Look Like a Thing and I Love You" by Janelle Shane
+* "You Look Like a Thing and I Love You" by Janelle Shane
   * Subtitle: How Artificial Intelligence Works and Why It's Making the World a Weirder Place
 
 #### Podcasts
