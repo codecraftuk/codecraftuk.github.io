@@ -5,7 +5,7 @@ description: Come hear about a new shape for the different aspects of testing, a
 ---
 
 Date | **Thursday 18th February 2021** <br>
-Time | **7:00pm to 9:00pm**<br>
+Time | **7:00pm to 9:00pm GMT**<br>
 Location &nbsp; | [Zoom Link](https://zoom.us/j/91617857564?pwd=YjlMYS9TY1Y4dkhDc045OFJqdXJZZz09)
 
 [Get Tickets Here](https://www.eventbrite.com/e/codecraft-test-automation-is-an-ice-cream-sandwich-tickets-140089961847)
