@@ -6,7 +6,7 @@ description: Software-driven music, Erlang, and live-coding platforms like Super
 
 Date | **Thursday 18th March 2021** <br>
 Time | **7:00pm to 9:00pm GMT**<br>
-Location &nbsp; | [Zoom](https://zoom.us/j/91617857564?pwd=YjlMYS9TY1Y4dkhDc045OFJqdXJZZz09)
+Location &nbsp; | [Zoom](https://zoom.us/j/92097676133?pwd=aStrNDdOYmswVXNSQnFUZ2dqbmtJdz09)
 [Get tickets here](https://www.eventbrite.com/e/making-music-with-software-tickets-143811705683)
 
 We'll hear from Duncan McGreggor (https://twitter.com/oubiwann) about making music in software.
