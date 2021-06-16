@@ -6,7 +6,7 @@ description: A short introduction and practice rounds for a few liberating struc
 
 Date | **Thursday 17th June 2021** <br>
 Time | **7:00pm to 8:30pm BST**<br>
-Location &nbsp; | Zoom <br>
+Location &nbsp; | [Zoom](https://zoom.us/j/98790019615?pwd=cW00MlcyK3h0NVZEWlJpdHVlMXdyQT09) <br>
 [Get free tickets here](https://www.eventbrite.com/e/practice-inclusive-online-meetings-tickets-157540888037)
 
 How can we make meetings that are more fruitful, collaborative and lively, especially now that most are happening online?
