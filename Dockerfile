@@ -1,7 +1,6 @@
-FROM jekyll/jekyll:3.4.0
+FROM jekyll/jekyll
 
 ADD Gemfile /srv/jekyll
-ADD Gemfile.lock /srv/jekyll
 RUN bundle install
 
 EXPOSE 4000
