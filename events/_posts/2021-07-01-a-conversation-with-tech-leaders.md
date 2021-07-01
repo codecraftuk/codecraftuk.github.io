@@ -4,7 +4,7 @@ title: 'A conversation with Scotland’s tech leaders'
 description: For our July event, we will be live interviewing a panel of different leaders in technology to ask them about their experience being a leader in tech.
 ---
 
-Date | **Thursday 15th June 2021** <br>
+Date | **Thursday 15th July 2021** <br>
 Time | **7:00pm to 8:30pm BST**<br>
 Location &nbsp; | Zoom <br>
 Tickets | [Get free tickets here](https://www.eventbrite.com/e/a-conversation-with-scotlands-tech-leaders-tickets-161801262933)
