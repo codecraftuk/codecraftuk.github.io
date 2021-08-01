@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Communication and domain knowlege - a tennis kata'
+title: 'Communication and domain knowledge - a tennis kata'
 description: For the august event, we will be refactoring already existing, functional code and hopefully learn about the value of tests and communication.
 ---
 
