@@ -16,7 +16,7 @@ If you email or tweet, the code of conduct team are:
 
 - [Ewa Grabowiecka](https://twitter.com/lost_semicolon)
 - [Gary Fleming](https://twitter.com/garyfleming)
-- [Joe Wright](https://twitter.com/joe_jag)
+- [Joe Wright](https://twitter.com/joe_jag) 
 
 You can also contact:
 
