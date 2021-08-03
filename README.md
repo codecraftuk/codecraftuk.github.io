@@ -1,6 +1,6 @@
 # CodeCraft web site
 
-This is a Jekyll based site. Jekyll is a static site generator which has free hosting on Github.
+This is a Jekyll based site. Jekyll is a static site generator which has free hosting on Github. 
 
 It uses a Ruby toolchain.
 
