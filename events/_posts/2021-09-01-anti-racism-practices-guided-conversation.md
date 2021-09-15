@@ -4,10 +4,12 @@ title: 'Our anti-racism practices in tech - 1 year on'
 description: For the september event, we invite folks to come and share where we're all at with our anti-racism practices in the tech industry. 
 ---
 
+<strong> THIS EVENT IS NOW POSTPONED. WE WILL RESCHEDULE AT A LATER DATE </strong>
+
 Date | **Thursday 16th September 2021** <br>
 Time | **7:00pm to 8:30pm BST**<br>
 Location &nbsp; | Zoom <br>
-Tickets | [Get free tickets here](https://www.eventbrite.com/e/codecraft-our-anti-racism-practices-in-tech-1-year-on-tickets-167997871155)
+
 
 <br/>
 
