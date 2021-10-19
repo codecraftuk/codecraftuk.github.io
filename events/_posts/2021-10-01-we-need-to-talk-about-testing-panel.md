@@ -21,7 +21,7 @@ We will explore topics such as:
 Our panel includes:
 
 - [Alaine Miller](https://twitter.com/miller_alaine) - Software Engineer (Aggregated Metadata Platform) [BBC](https://twitter.com/bbc)
-- [Cassandra H. Leung](https://twitter.com/Tweet_Cassandra) - Quality Engineer and Product Owner at [Ada Health](https://twitter.com/adahealth)
+- [Cassandra H. Leung](https://twitter.com/Tweet_Cassandra) - Quality Engineer at [Ada Health](https://twitter.com/adahealth)
 - [Richard Bradshaw](https://twitter.com/FriendlyTester) - BossBoss at [Ministry of Testing](https://twitter.com/ministryoftest)
 - [Rob Meaney](https://twitter.com/RobMeaney) - Director Of Engineering at [Glofox](https://twitter.com/weareglofox)
 
