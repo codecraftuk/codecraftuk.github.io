@@ -12,7 +12,7 @@ plugins:
 
 
 title: CodeCraft
-url: http://www.codecraftuk.org
+url: https://www.codecraftuk.org
 description: "We are a software crafters meetup. We discuss, demonstrate and debate how to write well-structured, malleable software."
 exclude: [.vs]
 
