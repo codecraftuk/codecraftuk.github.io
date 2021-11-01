@@ -4,7 +4,7 @@ title: "Collaboration Skills For Software Engineers: A Guided Conversation"
 description: "As the 'lone coder' stereotype breaks down in today's collaborative software engineering teams, what are the skills you need to prosper?"
 ---
 
-Date | **Thursday 18th October 2021** <br>
+Date | **Thursday 18th November 2021** <br>
 Time | **7:00pm to 9:00pm BST**<br>
 Location &nbsp; | Zoom (With free ticket)
 [Get free tickets here](https://www.eventbrite.com/e/codecraft-collaboration-skills-for-software-engineers-tickets-202440855047)
