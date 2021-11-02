@@ -5,7 +5,7 @@ description: "As the 'lone coder' stereotype breaks down in today's collaborativ
 ---
 
 Date | **Thursday 18th November 2021** <br>
-Time | **7:00pm to 9:00pm BST**<br>
+Time | **7:00pm to 9:00pm GMT**<br>
 Location &nbsp; | Zoom (With free ticket)
 [Get free tickets here](https://www.eventbrite.com/e/codecraft-collaboration-skills-for-software-engineers-tickets-202440855047)
 
