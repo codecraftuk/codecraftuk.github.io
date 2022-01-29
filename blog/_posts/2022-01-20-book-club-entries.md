@@ -39,3 +39,9 @@ This year we ran it online again, and the number of people around meant it was g
 * [Becoming a Better Writer in Tech](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
 * [Uber's Crazy YOLO App Rewrite, From the Front Seat](https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/)
 * [The Software Development Dilemma: Move Fast without Breaking Things?](https://blog.pragmaticengineer.com/the-startup-dilemma-move-slow-or-break-things/)
+
+
+### Recommended Bookshops
+* [Category is Books](https://www.categoryisbooks.com/)
+* [Porty Books](https://theportobellobookshop.com/)
+* [Lighthouse](https://lighthousebookshop.com/)
