@@ -28,6 +28,7 @@ This year we ran it online again, and the number of people around meant it was g
 * "The Paradox of Choice" by Barry Schwartz, Ken Kliban, et al.
 * "The Dispossessed" by Ursula K Le Guin
 * "The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine" by Charles Petzold
+* "Working in Public: The Making and Maintenance of Open Source Software" by Nadia Eghbal
 
 #### Podcasts
 
