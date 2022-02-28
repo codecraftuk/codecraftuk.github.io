@@ -72,6 +72,7 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    webrick (1.7.0)
     zeitwerk (2.5.1)
 
 PLATFORMS
@@ -86,6 +87,7 @@ DEPENDENCIES
   jekyll-redirect-from
   kramdown
   kramdown-parser-gfm
+  webrick
 
 BUNDLED WITH
-   2.1.4
+   2.2.22
