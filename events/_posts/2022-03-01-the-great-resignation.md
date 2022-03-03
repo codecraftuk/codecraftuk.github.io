@@ -32,6 +32,6 @@ The **attendee** will:
 
 - Not attend if they have COVID-19 symptoms on the day of the event
 - Take a lateral flow test on the morning of the event
-- Cover their nose and mouth with a mask while speaking to others
+- Cover their nose and mouth with a mask while moving around the building
 - Leave if asked to by an organiser who suspects they have COVID-19 symptoms
 - If they test positive for COVID-19 in the days after, inform the CodeCraft organisers
