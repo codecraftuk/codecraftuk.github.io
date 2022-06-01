@@ -4,7 +4,7 @@ title: "Lean Coffee"
 description: "We’re bringing back an old favourite: June will be a Lean Coffee evening  - in person, with drinks and pizza"
 ---
 
-Date | **Thursday 19th May 2022** <br>
+Date | **Thursday 16th June 2022** <br>
 Time | **6pm to 8 30pm**<br>
 Location &nbsp; | [Global Radio](https://global.com/), <a href="https://www.google.com/maps/place/Global+Radio+Scotland/@55.8628175,-4.3253047,13z/data=!4m6!3m5!1s0x488844207c421c25:0x99b1f1c8e280ada0!8m2!3d55.8628302!4d-4.2552619!15sCgxnbG9iYWwgcmFkaW-SAQ1tZWRpYV9jb21wYW55" target="_blank">1 W Regent St, Glasgow G2 1RW</a>
 
