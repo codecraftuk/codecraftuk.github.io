@@ -5,7 +5,7 @@ description: "October will be Lean Coffee evening  - in person, with drinks and 
 ---
 
 Date | **Thursday 20th October 2022** <br>
-Time | **6pm to 8.30pm**<br>
+Time | **6pm for 6.30pm start, to 8pm**<br>
 Location &nbsp; | JP Morgan, <a href="https://goo.gl/maps/7eMref8okzdMU46A8" target="_blank">45 Waterloo St, Glasgow, G2 6HS.</a>
 
 ## ** PLEASE NOTE A TICKET IS REQUIRED **
@@ -14,7 +14,10 @@ Location &nbsp; | JP Morgan, <a href="https://goo.gl/maps/7eMref8okzdMU46A8" tar
 
 For this month of October, we’re returning to a favourite: a Lean Coffee evening!
 
-Using a format called Lean Coffee, we’ll give you the chance to come and talk about anything that you want. (Don’t worry if you don’t know Lean Coffee, it’s simple and we’ll teach you it at the start!). We are thinking of experimenting with having some tables with a theme.
+Using a format called Lean Coffee, we’ll give you the chance to come and talk about anything that you want. (Don’t worry if you don’t know Lean Coffee, it’s simple and we’ll teach you it at the start!). We will experiment with having some tables with a theme, so you'll be able to choose between:
+* working in teams
+* career progression
+* general
 
 It doesn’t matter whether you’re new to the industry or experienced, whether you want to ask a question about starting in IT or the ethics behind AI trade-offs, there’ll be the opportunity to engage with your peers on anything you like.
 
