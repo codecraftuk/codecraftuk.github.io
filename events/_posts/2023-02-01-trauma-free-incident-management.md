@@ -22,7 +22,3 @@ Come and join :)
 
 We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
 [Read it here](https://www.codecraftuk.org/code-of-conduct.html)
-
-### Covid safety measures
-
-[Get Tickets Here](https://www.eventbrite.co.uk/e/530397622567)
