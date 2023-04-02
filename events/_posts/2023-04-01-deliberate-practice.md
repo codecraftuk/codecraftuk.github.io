@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 'Talk : Deliberate Practice - The Science and practices that lead us to get better'
-description: "Talk about how to be a better developer - with Science!!!"
+description: "Talk about how to be a better developer - with Science!"
 ---
 Date | **Thursday 20th of April 2023** <br>
 Time | **6:00pm to 7:30pm**<br>
-Location | Online!
+Location | **Online!**
 
 [Get Free Tickets Here](https://www.eventbrite.co.uk/e/deliberate-practice-the-science-and-practices-that-lead-us-to-get-better-tickets-606758118867)
 
 For our April event, we will be welcoming Paige Watson who will be sharing his insights about Deliberate Practice when applying to writing code. 
 
-Talk Abstract: 
+**Talk Abstract:** 
 
 Practice doesn't make perfect! Perfect practice makes perfect.
 Professional athletes and musicians focus on practicing to get better, so that the quality of their work becomes effortless. Why aren't you and your team practicing to get better?
@@ -22,7 +22,7 @@ Applying the concepts of Learned Behaviorism, using the techniques of Deliberate
 After the talk, we will have a discussion in groups to chat through the concepts, advice and tips on the subject.
 
 
-About Paige : 
+**About Paige:**
 
 With more than 25 years in the industry, I understand the need for Quality Software Craft practices. Software creation is a complex endeavour that requires great minds to think about not only solving the problems but also about how to create easy maintainability and extensibility. 
 
