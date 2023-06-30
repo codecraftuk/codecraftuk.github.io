@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lean Coffee"
-description: "We’re bringing back an old favourite: June will be a Lean Coffee evening  - in person, with drinks and pizza"
+description: "We’re bringing back an old favourite: June will be a Lean Coffee evening - in person, with drinks and pizza"
 ---
 
 Date | **Thursday 16th June 2022** <br>
