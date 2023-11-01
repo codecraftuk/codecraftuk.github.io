@@ -10,13 +10,11 @@ Location &nbsp; | Zoom (with free ticket)
 
 TODO!
 
-[Get Free Tickets Here](https://www.eventbrite.co.uk/e/beyond-the-stage-lights-freddie-mercurys-electric-encore-as-a-developer-tickets-735311365087?aff=oddtdtcreator)
+[Get Free Tickets Here](https://www.eventbrite.co.uk/e/codecraft-advent-of-code-2023-tickets-749705769137)
 
 The days are getting shorter, and the Xmas stuff has been in the shops for months now, but we have our last event of 2023 to warm your hearts.
 
-Since 2015, folks have been participating in the ["Advent of Code (TM)"](https://en.wikipedia.org/wiki/Advent_of_Code) an annual event with Xmas-themed coding puzzles.
-
-"Advent of Code (TM)" is a great way to solve interesting puzzles.
+Since 2015, folks have been participating in the ["Advent of Code (TM)"](https://adventofcode.com/2023/about) an annual event with Xmas-themed coding puzzles.
 
 Our November 2023 event falls just two weeks before the start, so we'll limber up by exploring a couple of past exercises.
 
