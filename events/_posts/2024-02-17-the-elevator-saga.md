@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Elevator Saga - can you get transport people in time?
+title: The Elevator Saga - can you transport people in time?
 description: Join the virtual Elevator Saga and put your javascript skills to the test. Can you transport folks within the time?
 ---
 
@@ -10,9 +10,9 @@ Location &nbsp; | Zoom (with free ticket)
 
 <hr>
 
-<!-- [Get Free Tickets Here](https://www.eventbrite.co.uk/e/sql-murder-mystery-can-you-find-out-whodunnit-tickets-715683818567?aff=oddtdtcreator) -->
+[Get Free Tickets Here](https://www.eventbrite.co.uk/e/codecraft-the-elevator-saga-can-you-transport-people-in-time-tickets-819335162527?aff=oddtdtcreator)
 
-Embark on a coding adventure like never before! Join us for an uplifting virtual event where you'll step into the shoes of a software engineer tasked with programming an elevator system using JavaScript. Get ready to roll up your sleeves and dive deep into the world of programming as you tackle real-life challenges in elevator logic. From defining floor behavior to optimizing passenger flow, this hands-on experience will put your JavaScript skills to the test. Whether you're a seasoned coder or just starting out, this interactive journey promises to elevate your programming prowess. Don't miss this unique opportunity to hone your skills, collaborate with fellow developers, and ride the wave of JavaScript innovation. Secure your spot today and take your coding skills to new heights!
+Embark on a coding adventure like never before! Join us for an uplifting virtual event where you'll step into the shoes of a software engineer tasked with programming an elevator system using JavaScript. Get ready to roll up your sleeves and dive deep into the world of programming as you tackle real-life challenges in elevator logic. From defining floor behaviour to optimizing passenger flow, this hands-on experience will put your JavaScript skills to the test.
 
 ### Do I need to know Javascript already?
 
