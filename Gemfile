@@ -1,10 +1,6 @@
 source 'https://rubygems.org'
+
 gem 'jekyll'
-gem 'jekyll-archives'
-gem 'jekyll-paginate'
-gem 'jekyll-redirect-from'
 gem 'jekyll-feed'
-gem 'kramdown'
-gem 'kramdown-parser-gfm'
-gem 'activesupport'
 gem 'webrick'
+gem 'icalendar'

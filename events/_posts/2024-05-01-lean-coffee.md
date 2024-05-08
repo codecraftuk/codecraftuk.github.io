@@ -2,13 +2,18 @@
 layout: post
 title: 'Lean Coffee'
 description: "For our July event, we're going to have a Lean Coffee session. 6:15pm in The Raven"
+location: The Raven
+start_date: '2024-07-18 18:15:00'
+end_date: '2024-07-18 20:30:00'
 ---
 
-Date | **Thursday 18th July 2024** <br>
+Date | **Thursday 18th July 2024** / {% calendar_link %}<br>
 Time | **6:15 pm to 8:30pm**<br>
 Location &nbsp; | <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (in the bar area on the ground floor)
 
-For our July event, we're going to have a Lean Coffee session. Everyone has questions about software development and engineering techniques that they'd like to discuss with a like-minded group: this is your chance.
+<p></p>
+
+<br/>For our July event, we're going to have a Lean Coffee session. Everyone has questions about software development and engineering techniques that they'd like to discuss with a like-minded group: this is your chance.
 
 Whether you want to talk about TDD in practice, Modern Cloud, microservices, structuring code, or anything else related to developing high-quality software, bring along your topic and questions and discuss them.
 
