@@ -2,22 +2,23 @@
 layout: post
 title: 'Lean Coffee'
 description: "For our July event, we're going to have a Lean Coffee session. 6:15pm in The Raven"
-location: The Raven
+location: 'The Raven, 81-85 Renfield St, Glasgow G2 1NQ'
 start_date: '2024-07-18 18:15:00'
 end_date: '2024-07-18 20:30:00'
 ---
 
-Date | **Thursday 18th July 2024** / {% calendar_link %}<br>
+Date | **Thursday 18th July 2024**<br>
 Time | **6:15 pm to 8:30pm**<br>
 Location &nbsp; | <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (in the bar area on the ground floor)
-
-<p></p>
+<br/>Reminder | {% calendar_link %}
 
 <br/>For our July event, we're going to have a Lean Coffee session. Everyone has questions about software development and engineering techniques that they'd like to discuss with a like-minded group: this is your chance.
 
 Whether you want to talk about TDD in practice, Modern Cloud, microservices, structuring code, or anything else related to developing high-quality software, bring along your topic and questions and discuss them.
 
 It doesn't matter if you don't have a topic, you may be able to provide valuable perspective for others, or learn something new by just listening. It also doesn't matter if you don't know the Lean Coffee format, it's simple and we'll take the time to explain it before we get started.
+
+No ticket required.
 
 ### Code of conduct
 

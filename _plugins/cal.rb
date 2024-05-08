@@ -1,6 +1,6 @@
 require 'liquid'
-require 'icalendar'
 require 'date'
+require 'add_to_calendar'
 
 module Jekyll
   class CalendarLinkTag < Liquid::Tag
@@ -11,28 +11,22 @@ module Jekyll
 
     def render(context)
       event = context['page']
-      start_date = DateTime.parse(event['start_date'])
-      end_date = DateTime.parse(event['end_date'])
+      start_date = DateTime.parse(event['start_date']).to_time
+      end_date = DateTime.parse(event['end_date']).to_time
 
-      cal = Icalendar::Calendar.new
-      cal.event do |e|
-        e.dtstart = start_date
-        e.dtend = end_date
-        e.summary = "CodeCraft"
-        e.description = event['description']
-        e.location = event['location']
-      end
+      cal = AddToCalendar::URLs.new(
+        start_datetime: start_date, 
+        end_datetime: end_date, 
+        title: "CodeCraft: " + event['title'], 
+        timezone: 'Europe/London',
+        location: event['location'],
+        description: event['description'],
+      )
 
-      cal_content = cal.to_ical
-      date = start_date.strftime('%Y-%m-%d')
-      file_name = "#{date}_#{event['title'].downcase.gsub(' ', '_')}.ics"
-      file_path = File.join('_site', 'events', file_name)
-
-
-      FileUtils.mkdir_p(File.dirname(file_path))
-      File.open(file_path, "w") { |f| f.write(cal_content) }
-
-      "<a href=\"/events/#{file_name}\" download=\"#{file_name}\" rel=\"nofollow\">Add to Calendar</a>"
+      "<a href='#{cal.google_url}'>Google Calendar</a> |
+       <a href='#{cal.outlook_com_url}'>Outlook</a> |
+       <a href='#{cal.office365_url}'>Office 365</a> |
+       <a download='calendar-event.ics' href='#{cal.ical_url}'>iCal</a>"
     end
   end
 end

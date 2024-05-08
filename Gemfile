@@ -3,4 +3,5 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'jekyll-feed'
 gem 'webrick'
-gem 'icalendar'
+
+gem 'add_to_calendar'
