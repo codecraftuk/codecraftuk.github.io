@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://www.codecraftuk.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.codecraftuk.org/" rel="alternate" type="text/html" /><updated>2024-05-08T22:35:51+00:00</updated><id>https://www.codecraftuk.org/feed.xml</id><title type="html">CodeCraft</title><subtitle>We are a software crafters meetup. We discuss, demonstrate and debate how to write well-structured, malleable software.</subtitle><entry><title type="html">Lean Coffee</title><link href="https://www.codecraftuk.org/events/2024/05/lean-coffee" rel="alternate" type="text/html" title="Lean Coffee" /><published>2024-05-01T00:00:00+00:00</published><updated>2024-05-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2024/05/lean-coffee</id><content type="html" xml:base="https://www.codecraftuk.org/events/2024/05/lean-coffee"><![CDATA[<p>Date | <strong>Thursday 18th July 2024</strong><br />
+Time | <strong>6:15 pm to 8:30pm</strong><br />
+Location   | <a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (in the bar area on the ground floor)
+<br />Reminder | <a href="https://www.google.com/calendar/render?action=TEMPLATE&amp;text=CodeCraft%3A%20Lean%20Coffee&amp;dates=20240718T181500/20240718T203000&amp;ctz=Europe/London&amp;location=The%20Raven%2C%2081-85%20Renfield%20St%2C%20Glasgow%20G2%201NQ&amp;details=For%20our%20July%20event%2C%20we%27re%20going%20to%20have%20a%20Lean%20Coffee%20session.%206%3A15pm%20in%20The%20Raven">Google Calendar</a> |
+       <a href="https://outlook.live.com/calendar/0/deeplink/compose?path=/calendar/action/compose&amp;rru=addevent&amp;subject=CodeCraft%3A%20Lean%20Coffee&amp;startdt=2024-07-18T17:15:00Z&amp;enddt=2024-07-18T19:30:00Z&amp;body=For%20our%20July%20event%2C%20we%27re%20going%20to%20have%20a%20Lean%20Coffee%20session.%206%3A15pm%20in%20The%20Raven&amp;location=The%20Raven%2C%2081-85%20Renfield%20St%2C%20Glasgow%20G2%201NQ">Outlook</a> |
+       <a href="https://outlook.office.com/calendar/0/deeplink/compose?path=/calendar/action/compose&amp;rru=addevent&amp;subject=CodeCraft%3A%20Lean%20Coffee&amp;startdt=2024-07-18T17:15:00Z&amp;enddt=2024-07-18T19:30:00Z&amp;body=For%20our%20July%20event%2C%20we%27re%20going%20to%20have%20a%20Lean%20Coffee%20session.%206%3A15pm%20in%20The%20Raven&amp;location=The%20Raven%2C%2081-85%20Renfield%20St%2C%20Glasgow%20G2%201NQ">Office 365</a> |
+       <a download="calendar-event.ics" href="data:text/calendar;charset=utf8,BEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//AddToCalendar//RubyGem//EN%0ABEGIN:VEVENT%0ADTSTAMP:20240508T223551Z%0ADTSTART:20240718T171500Z%0ADTEND:20240718T193000Z%0ASUMMARY:CodeCraft%3A%20Lean%20Coffee%0ADESCRIPTION:For%20our%20July%20event%5C%2C%20we%27re%20going%20to%20have%20a%20Lean%20Coffee%20session.%206%3A15pm%20in%20The%20Raven%0ALOCATION:The%20Raven%5C%2C%2081-85%20Renfield%20St%5C%2C%20Glasgow%20G2%201NQ%0AUID:-20240718T171500Z-CodeCraft%3A%20Lean%20Coffee%0AEND:VEVENT%0AEND:VCALENDAR">iCal</a></p>
+
+<p><br />For our July event, we’re going to have a Lean Coffee session. Everyone has questions about software development and engineering techniques that they’d like to discuss with a like-minded group: this is your chance.</p>
+
+<p>Whether you want to talk about TDD in practice, Modern Cloud, microservices, structuring code, or anything else related to developing high-quality software, bring along your topic and questions and discuss them.</p>
+
+<p>It doesn’t matter if you don’t have a topic, you may be able to provide valuable perspective for others, or learn something new by just listening. It also doesn’t matter if you don’t know the Lean Coffee format, it’s simple and we’ll take the time to explain it before we get started.</p>
+
+<p>No ticket required.</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
+<a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[For our July event, we're going to have a Lean Coffee session. 6:15pm in The Raven]]></summary></entry><entry><title type="html">The Elevator Saga - can you transport people in time?</title><link href="https://www.codecraftuk.org/events/2024/02/the-elevator-saga" rel="alternate" type="text/html" title="The Elevator Saga - can you transport people in time?" /><published>2024-02-17T00:00:00+00:00</published><updated>2024-02-17T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2024/02/the-elevator-saga</id><content type="html" xml:base="https://www.codecraftuk.org/events/2024/02/the-elevator-saga"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td><strong>Thursday 15th February 2024</strong></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td><strong>7.00pm event start</strong></td>
+    </tr>
+    <tr>
+      <td>Location  </td>
+      <td>Zoom (with free ticket)</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a href="https://www.eventbrite.co.uk/e/codecraft-the-elevator-saga-can-you-transport-people-in-time-tickets-819335162527?aff=oddtdtcreator">Get Free Tickets Here</a></p>
+
+<p>Embark on a coding adventure like never before! Join us for an uplifting virtual event where you’ll step into the shoes of a software engineer tasked with programming an elevator system using JavaScript. Get ready to roll up your sleeves and dive deep into the world of programming as you tackle real-life challenges in elevator logic. From defining floor behaviour to optimizing passenger flow, this hands-on experience will put your JavaScript skills to the test.</p>
+
+<h3 id="do-i-need-to-know-javascript-already">Do I need to know Javascript already?</h3>
+
+<p>No, we will be working in small groups. This session is designed for folks who know Javascript and those that don’t.</p>
+
+<h3 id="do-i-need-to-install-anything-before-the-event">Do I need to install anything before the event?</h3>
+
+<p>No. We will be using an online website to run the simulation.</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events. <a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[Join the virtual Elevator Saga and put your javascript skills to the test. Can you transport folks within the time?]]></summary></entry><entry><title type="html">CodeCraft Bring-A-Book 2024 Entries</title><link href="https://www.codecraftuk.org/blog/2024/01/book-club-entries" rel="alternate" type="text/html" title="CodeCraft Bring-A-Book 2024 Entries" /><published>2024-01-18T00:00:00+00:00</published><updated>2024-01-18T00:00:00+00:00</updated><id>https://www.codecraftuk.org/blog/2024/01/book-club-entries</id><content type="html" xml:base="https://www.codecraftuk.org/blog/2024/01/book-club-entries"><![CDATA[<p>Our annual tradition of getting together and discussing books has continued into its sixth year!</p>
+
+<p>It’s not a book club in the traditional sense. Instead, we invite attendees to Bring-a-Book (or blog post, podcast, other media) that has influenced them.</p>
+
+<p>This year, we went back to the Raven in Glasgow. It was a cold and stormy night, and only 2 people made it.</p>
+
+<h4 id="books">Books</h4>
+
+<ul>
+  <li>“The dynamics of social practice: everyday life and how it changes” by Elizabeth Shove, Mika Pantzar and Matt Watson</li>
+  <li>“Object-Oriented Programming” by Peter Coad and Jill Nicola</li>
+  <li>“Object-Oriented Design” by Peter Coad and Edward Yourdon</li>
+  <li>“Object-Oriented Analysis” by Peter Coad and Edward Yourdon</li>
+</ul>
+
+<p>It’s quite neat seeing classic books being useful still, as well as a more general book about how to manage change itself.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[The entries people brought to CodeCraft Multimedia Extravaganza 2024]]></summary></entry><entry><title type="html">CodeCraft Bring-A-Book!</title><link href="https://www.codecraftuk.org/events/2024/01/bring-a-book" rel="alternate" type="text/html" title="CodeCraft Bring-A-Book!" /><published>2024-01-01T00:00:00+00:00</published><updated>2024-01-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2024/01/bring-a-book</id><content type="html" xml:base="https://www.codecraftuk.org/events/2024/01/bring-a-book"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td><strong>Thursday 18th January 2024</strong> <br /></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td><strong>6:30pm to 8:30pm</strong><br /></td>
+    </tr>
+    <tr>
+      <td>Location  </td>
+      <td><a href="https://goo.gl/maps/vWn1J">The Raven</a> on Renfield Street, Glasgow (in the bar area on the ground floor)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://www.eventbrite.co.uk/e/the-multimedia-extravaganza-the-old-book-club-tickets-514809488037">Get Tickets Here</a></p>
+
+<p>It’s January! That means we’re doing our annual Bring-a-Book event!</p>
+
+<p>We need you to bring along a book that you’ve enjoyed in the realm of software, work, or a related field. Share with everyone else why you enjoy it, what you got from it, why others might want to read it. With everyone else doing the same, you can set up your New Year reading list with some great starting points!</p>
+
+<p>It doesn’t even <em>have</em> to be a book: it can be a blogpost, a podcast, a news article or anything else worth sharing. We recommend that the chosen texts are non-fiction as it keeps the conversations more grounded.</p>
+
+<p>Our aim is to encourage everyone to share ideas that have inspired them, and hopefully help with narrowing down worthy reads to put on your 2024 reading list.</p>
+
+<p>We’ll chat either as one group, or break into smaller groups, depending on how many people come along.</p>
+
+<p>Happy reading!</p>
+
+<p><a href="https://www.eventbrite.co.uk/e/the-multimedia-extravaganza-the-old-book-club-tickets-514809488037">Get Tickets Here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[It's January! That means we're doing our annual Bring-a-Book event!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.codecraftuk.org/bring-a-book.jpg" /><media:content medium="image" url="https://www.codecraftuk.org/bring-a-book.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Advent of Code warmup</title><link href="https://www.codecraftuk.org/events/2023/11/advent-of-code" rel="alternate" type="text/html" title="Advent of Code warmup" /><published>2023-11-01T00:00:00+00:00</published><updated>2023-11-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2023/11/advent-of-code</id><content type="html" xml:base="https://www.codecraftuk.org/events/2023/11/advent-of-code"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td><strong>Thursday 16th of November 2023</strong></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td><strong>7.00pm event start</strong></td>
+    </tr>
+    <tr>
+      <td>Location  </td>
+      <td>Zoom (with free ticket)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>TODO!</p>
+
+<p><a href="https://www.eventbrite.co.uk/e/codecraft-advent-of-code-2023-tickets-749705769137">Get Free Tickets Here</a></p>
+
+<p>The days are getting shorter, and the Xmas stuff has been in the shops for months now, but we have our last event of 2023 to warm your hearts.</p>
+
+<p>Since 2015, folks have been participating in the <a href="https://adventofcode.com/2023/about">“Advent of Code (TM)”</a> an annual event with Xmas-themed coding puzzles.</p>
+
+<p>Our November 2023 event falls just two weeks before the start, so we’ll limber up by exploring a couple of past exercises.</p>
+
+<p>We will work in groups to find a solution to the problems, you will need a laptop to Join, and have some experience of coding, but these are about problem solving.</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
+<a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[A warmup event for Advent of Code 202]]></summary></entry><entry><title type="html">Beyond the Stage Lights: Freddie Mercury’s Electric Encore as a Developer</title><link href="https://www.codecraftuk.org/events/2023/10/beyond-the-stage-lights" rel="alternate" type="text/html" title="Beyond the Stage Lights: Freddie Mercury’s Electric Encore as a Developer" /><published>2023-10-01T00:00:00+00:00</published><updated>2023-10-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2023/10/beyond-the-stage-lights</id><content type="html" xml:base="https://www.codecraftuk.org/events/2023/10/beyond-the-stage-lights"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td><strong>Thursday 19thof October 2023</strong></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td><strong>7.00pm event start</strong></td>
+    </tr>
+    <tr>
+      <td>Location  </td>
+      <td>Zoom (with free ticket)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://www.eventbrite.co.uk/e/beyond-the-stage-lights-freddie-mercurys-electric-encore-as-a-developer-tickets-735311365087?aff=oddtdtcreator">Get Free Tickets Here</a></p>
+
+<p>This month at CodeCraft, we will be welcoming Pete Aitken, organiser of the ScotlandJS and ScotlandCSS and the fantastic initiative that is the Global Diversity CFP Day.
+Peter will be giving a talk about fixing performance issues in his app.</p>
+
+<p>Talk Abstract:</p>
+
+<p>“Having left Queen, worldwide sell out stadium tours and albums behind, Freddie invites you to join him for a day in his new life as a software developer.
+On this journey Freddie will be diving into a performance issue that is affecting a small number of high value customers to the extent the product is near unusable for them.
+Find out what happens as Freddie attempts to resolve the issue while making a huge number of costume changes!”</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
+<a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[An online talk about Freddie Mercury and Performance Improvements in your Apps!]]></summary></entry><entry><title type="html">SQL Murder Mystery - can you find out whodunnit?</title><link href="https://www.codecraftuk.org/events/2023/09/sql-murder-mystery" rel="alternate" type="text/html" title="SQL Murder Mystery - can you find out whodunnit?" /><published>2023-09-01T00:00:00+00:00</published><updated>2023-09-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2023/09/sql-murder-mystery</id><content type="html" xml:base="https://www.codecraftuk.org/events/2023/09/sql-murder-mystery"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td><strong>Thursday 21st September 2023</strong></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td><strong>7.00pm event start</strong></td>
+    </tr>
+    <tr>
+      <td>Location  </td>
+      <td>Zoom (with free ticket)</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<p><a href="https://www.eventbrite.co.uk/e/sql-murder-mystery-can-you-find-out-whodunnit-tickets-715683818567?aff=oddtdtcreator">Get Free Tickets Here</a></p>
+
+<p>Join us for a thrilling online event where you become the detective! Dive into the world of SQL and solve a mysterious crime. Put your SQL skills to the test as you analyze data, uncover clues, and identify the culprit. This interactive experience will challenge your problem-solving abilities and keep you on the edge of your seat. Can you crack the case and find out whodunnit? Don’t miss this exciting opportunity to sharpen your SQL knowledge and have a blast while doing it!</p>
+
+<h3 id="do-i-need-to-know-sql-already">Do I need to know SQL already?</h3>
+
+<p>No, we will be working in small groups. This session is designed for folks who know SQL and those that don’t.</p>
+
+<h3 id="do-i-need-to-install-anything-before-the-event">Do I need to install anything before the event?</h3>
+
+<p>No. We will be using an online website to run the queries</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
+<a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[Join the virtual SQL Murder Mystery and put your detective skills to the test. Can you crack the case and uncover whodunnit?]]></summary></entry><entry><title type="html">Object-Oriented and Functional designs</title><link href="https://www.codecraftuk.org/events/2023/08/functional-objects" rel="alternate" type="text/html" title="Object-Oriented and Functional designs" /><published>2023-08-01T00:00:00+00:00</published><updated>2023-08-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2023/08/functional-objects</id><content type="html" xml:base="https://www.codecraftuk.org/events/2023/08/functional-objects"><![CDATA[<p>Date  | <strong>Thursday 17th August 2023</strong>
+Time | <strong>7.00pm event start</strong>
+Location   | Zoom (with free ticket)</p>
+<hr />
+
+<p><a href="https://www.eventbrite.com/e/design-workshop-object-oriented-and-functional-tickets-689874080947">Get Free Tickets Here</a></p>
+
+<p>Alan Perlis wrote:</p>
+
+<blockquote>
+  <p>It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures</p>
+</blockquote>
+
+<p>But how true is this?</p>
+
+<p>We’ll look at how a simple model can be expressed as a group of collaborating objects and then as a set of functions.</p>
+
+<p>Which ones are easier to read, to reason about?</p>
+
+<p>Which one would you prefer to work on?</p>
+
+<p>What are the tradeoffs?</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
+<a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[Looking at the differences between functional and OO approaches to programming]]></summary></entry><entry><title type="html">Lean Coffee</title><link href="https://www.codecraftuk.org/events/2023/07/lean-coffee" rel="alternate" type="text/html" title="Lean Coffee" /><published>2023-07-01T00:00:00+00:00</published><updated>2023-07-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2023/07/lean-coffee</id><content type="html" xml:base="https://www.codecraftuk.org/events/2023/07/lean-coffee"><![CDATA[<p>Date  | <strong>Thursday 20th July 2023</strong>
+Time | <strong>7.00pm event start</strong>
+Location   | Zoom (with free ticket)</p>
+<hr />
+
+<p><a href="https://www.eventbrite.com/e/codecraft-lean-coffee-july-2023-tickets-669186323307&quot;">Get Free Tickets Here</a></p>
+
+<p>We’re bringing back an old favourite: July will be a Lean Coffee evening!</p>
+
+<p>During the year, we can only cover so many topics. You, our community, often have questions you want answered, topics you want to discuss, or issues you feel you need to chat about. This is your chance!</p>
+
+<p>Using a format called  <a href="http://leancoffee.org/" target="_blank">Lean Coffee</a>, we’ll give you the chance to come and talk about anything that you want. (Don’t worry if you don’t know Lean Coffee, it’s simple and we’ll teach you it at the start!)</p>
+
+<p>It doesn’t matter whether you’re new to the industry or experienced, whether you want to ask a question about starting in IT or the ethics behind AI trade-offs, there’ll be the opportunity to engage with your peers on anything you like.</p>
+
+<p>You don’t even need to bring a topic! Maybe you know something that’ll help answer a question for someone else, or maybe you’ll benefit by just listening in. If you’re interested in software, we’re sure you’ll take something useful away!</p>
+
+<h3 id="code-of-conduct">Code of conduct</h3>
+
+<p>We want everyone to feel welcome at our events, therefore we have a code of conduct to make sure we are very clear in what type of behaviour we tolerate at our events.
+<a href="https://www.codecraftuk.org/code-of-conduct.html">Read it here</a></p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[Got questions you want answered? Problems to chat about? Topics to discuss? Join our Virtual Lean Coffee!]]></summary></entry><entry><title type="html">100 events celebration!</title><link href="https://www.codecraftuk.org/events/2023/06/100-events" rel="alternate" type="text/html" title="100 events celebration!" /><published>2023-06-01T00:00:00+00:00</published><updated>2023-06-01T00:00:00+00:00</updated><id>https://www.codecraftuk.org/events/2023/06/100-events</id><content type="html" xml:base="https://www.codecraftuk.org/events/2023/06/100-events"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>Date</td>
+      <td><strong>Thursday 15th June 2023</strong> <br /></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td><strong>18:30pm to 21:30pm</strong><br /></td>
+    </tr>
+    <tr>
+      <td>Location  </td>
+      <td>The Raven 81-85 Renfield Street Glasgow G2 1NQ )</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://www.eventbrite.co.uk/e/codecraft-social-celebrating-100-events-tickets-649153574817">Get Tickets Here</a></p>
+
+<p>Can you believe we have put on over 100 events in the last 9 years? I cant believe we have been running for over 9 years!</p>
+
+<p>To celebrate, we will be getting together in the raven with some sort of a beverage and maybe a cake. So come along for a chat and to see some new and familiar places. We would love to see you!</p>]]></content><author><name></name></author><category term="events" /><summary type="html"><![CDATA[A celebratory get together at the raven for our 100 event milestone]]></summary></entry></feed>

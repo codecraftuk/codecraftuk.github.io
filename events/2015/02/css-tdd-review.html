@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138996-12"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138996-12');
+</script>
+
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@codecraftuk">
+    <meta name="twitter:creator" content="@codecraftuk">
+    
+    <meta name="twitter:title" content="CSS TDD - Review">
+    
+    
+    <meta name="twitter:url" content="https://www.codecraftuk.org/events/2015/02/css-tdd-review">
+    
+    
+    <meta name="twitter:description" content="We are a software crafters meetup. We discuss, demonstrate and debate how to write well-structured, malleable software.">
+    
+    
+    <meta name="twitter:image:src" content="https://www.codecraftuk.org/images/cclogo.svg">
+    
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!-- Feeds -->
+    <link rel="alternate" type="application/atom+xml" href="/feed.xml" />
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700" rel="stylesheet">
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+    <title>CSS TDD - Review - CodeCraft</title>
+    <link rel="icon" type="image/svg" href="/images/cclogo-small.png">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg">
+    <a class="navbar-brand" href="/index"><img src="/images/cclogo-small.png" /> Code Craft</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+            <!-- <li class="nav-item">
+                <a class="nav-link" href="/who-are-we.html">Who are we?</a>
+            </li> -->
+            <li class="nav-item">
+                    <a class="nav-link" href="/podcast">CodeCraftCast</a>
+                </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/code-of-conduct.html">Code of Conduct</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/blog.html">Blog</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://conf.codecraftuk.org" target="_blank">Code Craft Conf</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+    <div class="container-fluid">
+        <div class="container">
+    <h1 class="page-title-text pb-2 pt-4">CSS TDD - Review</h1>
+    <div class="post meetups">
+    <p>On the 19th February 2015 we tried using the Quixote library to test drive the creation of a website, as part of our <a href="/events/2015/02/css-tdd">CSS TDD event</a>.</p>
+
+<p>We had around 14 attendees on the night who didn’t have much experience with CSS as they were mainly backend developers. Half of the attendees had used npm before, which we used as a way to pair people together. The feeling in the room at the start was energetic but sceptical.</p>
+
+<p>We gave everyone a <a href="https://github.com/codecraftuk/tddcss">starting repo</a> and asked them to take some Lorem Ipsum and make it into a two column website. This was explained to be a potential starting off point, and not prescriptive; attendees should explore the tooling and technique as they saw fit.</p>
+
+<p><img src="/images/layout.png" class="centered-image" /></p>
+
+<h2 id="the-results">The results</h2>
+
+<p>Some of the attendees showed frustration with their knowledge of CSS, which prevented them from going as fast as they’d like. Yet no one seemed concerned about having to use Javascript or the Quixote library. Javascript has been somewhat of a lingua franca at our events.</p>
+
+<p>It was interesting seeing some attendees learn that web browsers have default styles. The usual approach to fixing this is to use a reset tool which sets margins to zero, in order to allow the designer to set their own styles.</p>
+
+<p>A problem we saw when running two test runners in Chrome and PhantomJS is that a test can fail in one but not the other. This is probably due to the default styles in each browser. This led participants to move from having hard coded numbers in their tests to using tests that were better abstractions over the ideas being tested, in the same way you would if doing TDD in a more conventional language. For example, to test our two column layout was as expected, we moved from examining absolute width of elements/margins in the tests (“content is 22px away from navigation”), to concepts like “navigation is left of content”, “navigation and content are the same height”, and “navigation and content are aligned vertically”.</p>
+
+<p><a href="https://twitter.com/joe_jag">Joe</a> found that after about an hour he didn’t have to open the web browser anymore to see if his changes have worked. This experience eerily mimics the experience you have while test driving a programming language.</p>
+
+<p>Two of the pairs left with the intention of introducing TDD CSS to their teams the next day. One said the TDD CSS is something that gave them more confidence that they haven’t introduced regressions. The other said that they work with a client who needs to have everything correct to the pixel. Having tests would allow them to stop worrying and avoid rework. It was also suggested you might use a handful of rules to form a house styleguide for new projects in order to have consistent branding.</p>
+
+<p>It’s fair to say our time, and thus our experience, was limited, so we really only saw the tip of the iceberg. However, we started with the belief that test driving CSS is an absurd idea. This gave way to people either embracing the approach or swearing never to do CSS again and return to the backend code.</p>
+
+</div>
+<div class="pt-3">
+    <h4>Learn more</h4>
+    <ul>
+        <!-- <li><a href="/who-are-we.html">Who are we?</a></li> -->
+        <li><a href="/previous-events.html">Previous Events</a></li>
+        <li><a href="/blog/2017/11/craftsmanship-to-crafters">Blog - Craftsmanship to crafters</a></li>
+    </ul>
+</div>
+
+</div>
+
+    </div>
+
+    <footer>
+    <div class="twitter-links">
+        <a href="https://twitter.com/codecraftuk" target="_blank">CodeCraft</a>
+        | <a href="https://twitter.com/AmelieCornelis" target="_blank">Amélie</a>
+        | <a href="https://twitter.com/lost_semicolon" target="_blank">Ewa</a>
+        | <a href="https://twitter.com/garyfleming" target="_blank">Gary</a>
+        | <a href="https://twitter.com/joe_jag" target="_blank">Joe</a>
+        | <a href="https://twitter.com/bigkevmcd" target="_blank">Kevin</a>
+    </div>
+    <div class="footer-links d-none d-sm-block">
+        <a href="/code-of-conduct.html">Code of Conduct</a> |
+        <a href="/previous-events.html">Previous Events</a> |
+        <a href="/constitution">Constitution</a>
+    </div>
+
+    <div class="d-block d-sm-none">
+        <div class="footer-links-mobile">
+            <a href="/code-of-conduct.html">Code of Conduct</a>
+            <a href="/previous-events.html">Previous Events</a>
+            <a href="/constitution">Constitution</a>
+        </div>
+    </div>
+</footer>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-55670018-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+</body>
+</html>
