@@ -2,7 +2,7 @@ name: CodeCraft
 markdown: kramdown
 future: true
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+  extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables', 'strikethrough', 'superscript', 'with_toc_data']
 
 highligher: true
 permalink: /:categories/:year/:month/:title
@@ -10,12 +10,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-feed
 
-
 title: CodeCraft
 url: https://www.codecraftuk.org
-description: "We are a software crafters meetup. We discuss, demonstrate and debate how to write well-structured, malleable software."
+description: 'We are a software crafters meetup. We discuss, demonstrate and debate how to write well-structured, malleable software.'
 exclude: [.vs]
-
 
 collections:
   - organisers

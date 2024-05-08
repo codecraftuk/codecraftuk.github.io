@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond the Stage Lights: Freddie Mercury's Electric Encore as a Developer
+title: "Beyond the Stage Lights: Freddie Mercury's Electric Encore as a Developer"
 description: An online talk about Freddie Mercury and Performance Improvements in your Apps!
 ---
 
@@ -8,11 +8,10 @@ Date | **Thursday 19thof October 2023**
 Time | **7.00pm event start**
 Location &nbsp; | Zoom (with free ticket)
 
-
 [Get Free Tickets Here](https://www.eventbrite.co.uk/e/beyond-the-stage-lights-freddie-mercurys-electric-encore-as-a-developer-tickets-735311365087?aff=oddtdtcreator)
 
 This month at CodeCraft, we will be welcoming Pete Aitken, organiser of the ScotlandJS and ScotlandCSS and the fantastic initiative that is the Global Diversity CFP Day.
-Peter will be giving a talk about fixing performance issues in his app.  
+Peter will be giving a talk about fixing performance issues in his app.
 
 Talk Abstract:
 
