@@ -24,9 +24,15 @@ module Jekyll
       end
 
       cal_content = cal.to_ical
-      base64_cal_content = Base64.strict_encode64(cal_content)
+      date = start_date.strftime('%Y-%m-%d')
+      file_name = "#{date}_#{event['title'].downcase.gsub(' ', '_')}.ics"
+      file_path = File.join('_site', 'events', file_name)
 
-      "<a href=\"data:text/calendar;base64,#{base64_cal_content}\" download=\"#{event['title'].downcase.gsub(' ', '_')}.ics\">Add to your calendar</a>"
+
+      FileUtils.mkdir_p(File.dirname(file_path))
+      File.open(file_path, "w") { |f| f.write(cal_content) }
+
+      "<a href=\"/events/#{file_name}\" download=\"#{file_name}\" rel=\"nofollow\">Add to Calendar</a>"
     end
   end
 end
